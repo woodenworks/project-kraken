@@ -1,11 +1,3 @@
-<div class='pageNumber auto'></div>
-
-<div class='footer'>
-Wooden Works |  [Discord](https://discord.gg/vkFBGnmVNJ) | Epizon the Titan | Alpha 0.1.1
-</div>
-
-
-{{monster,wide
 ## Epizon, The Titan
 *Gargantuan titan (half-dragon, half-giant), chaotic good*
 ___
@@ -74,5 +66,3 @@ Additionally, Epizon uses either Storm Strike or Thunderous Stride.
 ***Storm Strike.*** When Call Storm is active, Epizon calls down a bolt of lightning to a point he can see within the storm. Each creature within 10 feet of that point must make a DC 24 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
 :
 ***Thunderous Stride.*** When Call Storm is active, Epizon teleports himself to an unoccupied space he can see within the storm. Immediately after he disappears, a thunderous boom sounds, and each creature within 10 feet of the space he left must make a DC 24 Constitution saving throw, taking 27 (5d10) thunder damage on a failed save, or half as much damage on a successful one.
-}}
-
