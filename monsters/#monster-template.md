@@ -1,23 +1,18 @@
 ## Djinni of the Footlocker
 *Small guy, unoriginal neutral*
 ___
-**Armor Class** :: 15 (chain mail, shield)
-
-**Hit Points**  :: 79(1d4 + 5)
-
-**Speed**       :: 19 ft.
+- **Armor Class** :: 15 (chain mail, shield)
+- **Hit Points**  :: 79(1d4 + 5)
+- **Speed**       :: 19 ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |18 (+4)|5 (-2)|6 (-2)|2 (-4)|20 (+5)|4 (-3)|
 ___
-**Condition Immunities** :: swagged, groggy, melancholy
-
-**Senses**               :: darkvision 60 ft., passive Perception 16
-
-**Languages**            :: Pottymouth, Gibberish
-
-**Challenge**            :: 11 (8645 XP)	::	**Proficiency Bonus**  +8
+- **Condition Immunities** :: swagged, groggy, melancholy
+- **Senses**               :: darkvision 60 ft., passive Perception 16
+- **Languages**            :: Pottymouth, Gibberish
+- **Challenge**            :: 11 (8645 XP)	::	**Proficiency Bonus**  +8
 ___
 ***Enormous Nose.*** This creature gains advantage on any check involving putting things in its nose.
 
