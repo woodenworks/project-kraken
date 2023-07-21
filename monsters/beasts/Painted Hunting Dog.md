@@ -12,7 +12,7 @@ ___
 - **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** none, but can communicate with other hunting dogs using barks and sneezes
-- **Challenge** 0 (10 XP)
+- **Challenge** 0 (10 XP) :: **Proficiency Bonus**  +2
 ___
 ### Actions
 ***Bite.*** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 5 (2d4) piercing damage.
