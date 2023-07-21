@@ -29,8 +29,10 @@ ___
 
 ***Suffering Wringer.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
 
-***Team Elbow.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
-
+***Spellcasting.*** The {{monster}} casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):<br>
+- At will: _detect evil and good, invisibility_ (self only)<br>
+- 3/day each: _blade barrier, dispel evil and good, flame strike, raise dead_<br>
+- 1/day each: _commune, control weather, insect plague_
 
 ### Bonus Actions
 ***Elbow Hold.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
