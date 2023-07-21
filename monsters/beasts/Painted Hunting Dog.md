@@ -18,4 +18,4 @@ ___
 ***Bite.*** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 5 (2d4) piercing damage.
 
 ### Bonus Actions
-***Aggressive.*** The hunting dog can move up to its speed toward a hostile creature that it can see.
+***Aggressive.*** The hunting dog moves up to its speed toward a hostile creature that it can see.
