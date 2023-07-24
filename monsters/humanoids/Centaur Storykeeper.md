@@ -2,7 +2,7 @@
 *Large Humanoid, any alignment*
 ___
 - **Armor Class** 12
-- **Hit Points** 41 (6d10 + 8)
+- **Hit Points** 43 (6d10 + 8)
 - **Speed** 45 ft.
 ___
 |STR|DEX|CON|INT|WIS|CHA|
@@ -11,7 +11,7 @@ ___
 ___
 - **Skills** Athletics +6, Perception +3, Survival +3
 - **Senses** passive Perception 13
-- **Challenge** 1 (200 XP) :: **Proficiency Bonus**  +2
+- **Challenge** 3 (700 XP) :: **Proficiency Bonus**  +2
 ___
 ***Charge.*** If the centaur moves at least 10 feet in a straight line toward a target and then hits it with a melee weapon attack on the same turn, the attack deals an extra 3 (1d6) damage for every 10 feet moved.
 
