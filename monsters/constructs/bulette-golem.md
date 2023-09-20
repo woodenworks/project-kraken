@@ -9,6 +9,7 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |22 (+6)|9 (-1)|22 (+6)|2 (-4)|10 (+0)|1 (-5)|
 ___
+- **Condition Immunities**  fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 - **Condition Immunities**  charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses**                darkvision 60 ft., tremorsense 60ft., passive Perception 10
 - **Languages**             understands the languages of its creator but can't speak
@@ -18,44 +19,13 @@ ___
 
 ***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
 
-***Fowl Appearance.*** While the creature remains motionless, it is indistinguishable from a normal chicken.
-
-***Hangriness.*** This creature is angry, and hungry. It will refuse to do anything with you until its hunger is satisfied. 
-	When in visual contact with this creature, you must purchase an extra order of fries, even if they say they aren't hungry.
+***Magic Resistance.*** The golem has advantage on saving throws against spells and other magical effects.
 
 
 ### Actions
-***Elbow Hold.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
 
-***Suffering Wringer.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+***Bite*** *Melee Weapon Attack:* +11 to hit, reach 5ft., one target. *Hit* 34 (4d12+8) 
 
-***Spellcasting.*** The {{monster}} casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):<br>
-- At will: _detect evil and good, invisibility_ (self only)<br>
-- 3/day each: _blade barrier, dispel evil and good, flame strike, raise dead_<br>
-- 1/day each: _commune, control weather, insect plague_
+***Deadly Leap.***  If the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 5 feet out of the bulette's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the bulette's space.
 
-### Bonus Actions
-***Elbow Hold.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
-
-***Team Elbow.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
-
-### Reactions
-***Suffering Wringer.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
-
-***Team Elbow.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
-
-### Legendary Actions
-Creature can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Creature regains spent legendary actions at the start of its turn.
-
-***Elbow Hold.*** Legendary Description 
-
-***Suffering Wringer.*** Legendary Description 
-
-***Team Elbow (Costs 2 Actions).*** Legendary Description 
-
-### Mythic Actions
-If Creature's Mythic trait has activated in the last hour, it can use the options below as legendary actions.
-
-***Suffering Wringer.*** Legendary Description 
-
-***Team Elbow (Costs 2 Actions).*** Legendary Description 
+***Poison Breath.*** The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
