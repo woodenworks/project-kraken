@@ -3,7 +3,7 @@
 ___
 - **Armor Class**  19 (Natural Armor)
 - **Hit Points**   155(10d10+100)
-- **Speed**        40 ft., burrow 40 ft.
+- **Speed**        10 ft., burrow 40 ft., rails 60ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
