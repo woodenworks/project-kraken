@@ -1,5 +1,5 @@
 ## Skjallr's Thimble
-*(Wondrous item, uncommon) requires attunement*
+*(Wondrous item, rare) requires attunement*
 
 This helmet has a curious pattern stamped all across its surface. A strange smell clings to the inside...
 
