@@ -12,7 +12,7 @@ ___
 - **Condition Immunities**  poisoned, prone
 - **Damage Resistances**    fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 - **Senses**                passive Perception 14
-- **Languages**             Imperial, Polavian.
+- **Languages**             Imperial, Polavian
 - **Challenge**             ?? (?? XP)	::	**Proficiency Bonus**  +3
 ___
 ***Mining Rig.*** The Pride of Polavia can only move or act while driven by a small creature. While inside, the creature is restrained, has total cover, and takes its turns as the Pride of Polavia.
