@@ -12,4 +12,4 @@ As a bonus action, you may activate the device. The effect is randomly determine
 | 5 |   |
 | 6 |   |
 
-Once per day, a creature may attempt a DC 23 Arcana(Intelligence) check to discern how to correctly operate the device. On a success, that creature may select which effect occurs whenever they activate the device from then on, and gain the secondary effect from the table.
+Once per day, you may attempt a DC 25 Intelligence(Arcana) check to discern how to correctly operate the device. On a success, you may select which effect occurs whenever you activate the device from then on, and gain the secondary effect from the table.
