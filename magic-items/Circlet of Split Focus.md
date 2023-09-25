@@ -1,5 +1,5 @@
 ## Circlet of Split Focus
-*(Wondrous item, rare) requires attunement*
+*(Wondrous item, very rare) requires attunement*
 
 This ornate silver circlet bears a gemstone which rests against its wearer's forehead. The gemstone is clear while unattuned, but takes on the color of its attuned user's eyes and glows while its effect is active.
 
