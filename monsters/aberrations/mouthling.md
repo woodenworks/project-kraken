@@ -1,18 +1,18 @@
 ## Mouthling
 *Tiny aberration, neutral*
 ___
-- **Armor Class**  15 (chain mail, shield)
-- **Hit Points**   79(1d4 + 5)
-- **Speed**        19 ft.
+- **Armor Class**  13
+- **Hit Points**   10 (3d4 + 3)
+- **Speed**        20 ft., climb 20 ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |6 (-2)|14 (+2)|13 (+1)|3 (-4)|9 (-1)|5 (-3)|
 ___
-- **Condition Immunities**  swagged, groggy, melancholy
-- **Senses**                darkvision 60 ft., passive Perception 16
+- **Condition Immunities**  prone
+- **Senses**                darkvision 60 ft., passive Perception 9
 - **Languages**             --
-- **Challenge**             11 (8645 XP)	::	**Proficiency Bonus**  +8
+- **Challenge**             1/4 (50 XP)	::	**Proficiency Bonus**  +2
 ___
 
 ### Actions
