@@ -2,12 +2,12 @@
 *Large Humanoid, any alignment*
 ___
 - **Armor Class** 15
-- **Hit Points** 60 (6d10 + 27)
+- **Hit Points** 70 (6d10 + 37)
 - **Speed** 50 ft.
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|14 (+2)|14 (+2)|9 (-1)|13 (+1)|11 (+0)|
+|18 (+4)|14 (+2)|16 (+3)|9 (-1)|13 (+1)|11 (+0)|
 ___
 - **Skills** Athletics +6, Perception +3, Survival +3
 - **Senses** passive Perception 13
