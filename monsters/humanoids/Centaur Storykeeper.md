@@ -13,7 +13,7 @@ ___
 - **Senses** passive Perception 13
 - **Challenge** 3 (700 XP) :: **Proficiency Bonus**  +2
 ___
-***Charge.*** If the centaur moves at least 10 feet in a straight line toward a target and then hits it with a melee weapon attack on the same turn, the attack deals an extra 3 (1d6) damage for every 10 feet moved.
+***Charge.*** If the storykeeper moves at least 10 feet in a straight line toward a target and then hits it with a melee weapon attack on the same turn, the attack deals an extra 3 (1d6) damage for every 10 feet moved.
 
 ### Actions
 ***Multiattack.*** The storykeeper makes two attacks, either twice with Ancient Song, or once with Whisper and once with Hooves.
@@ -24,7 +24,7 @@ ___
 
 ***Hooves.*** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) bludgeoning damage.
 
-***Spellcasting.*** The {{monster}} casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13):<br>
+***Spellcasting.*** The storykeeper casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13):<br>
 - At will: _guidance, animal friendship_
 - 3/day each: _healing word, animal messenger, lesser restoration_
 - 1/day each: _hypnotic pattern, speak with dead_
