@@ -1,5 +1,5 @@
 ## Totem of Spirit Guides
-*(Wondrous item, rare) requires incense, which is consumed*
+*(Wondrous item, rare)*
 
 This totem carved from a large horn seems to bear features from many different animals. When incense is lit within its mouth, smoke pours from its many claws, wings, and antlers.
 
