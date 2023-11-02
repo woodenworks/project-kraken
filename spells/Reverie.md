@@ -1,9 +1,9 @@
 ## Reverie
 _Enchantment Cantrip_
 
-**Casting Time:** 1 action
-**Range:** 60 feet
-**Components:** V,S
+**Casting Time:** 1 action  
+**Range:** 60 feet  
+**Components:** V,S  
 **Duration:** Instantaneous
 
 Targeting a creature you can see within range, you momentarily connect this creature’s essence to the Dream. The target must succeed on a Dexterity saving throw or take 1d8 psychic damage. The target gains no benefit from cover for this saving throw.
