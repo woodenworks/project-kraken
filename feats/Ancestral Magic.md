@@ -1,0 +1,3 @@
+## Ancestral Magic
+
+Your connection to your ancestors grants you a trace of magic. You know one cantrip of your choice from the cleric spell list. You also know _healing word_ and _protection from evil and good_, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this feat). You may use a spellcasting focus instead of material components if your class allows.
