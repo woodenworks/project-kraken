@@ -1,5 +1,5 @@
 ## Purify Object
-_5th-level transmutation (ritual)_
+_5th-level abjuration (ritual)_
 
 **Casting Time:** Variable  
 **Range:** Touch  
