@@ -6,7 +6,7 @@ _5th-level transmutation (ritual)_
 **Components:** V,S,M (explained below, which the spell consumes)  
 **Duration:** Instantaneous
 
-You perform a ritual to rewrite the essence of a magic item, removing a curse effect from the item. This spell is fueled by diamonds, which are consumed by the spell. Depending on the rarity of the item, the casting time and material components vary, as detailed in the table below:
+You perform a ritual to rewrite the essence of a magic item, removing a curse effect from the item. This spell is fueled by diamonds, which are consumed by the spell. Depending on the rarity of the item, the casting time and material components vary, as detailed in the table below.
 
 | Item Rarity | Casting Time | Material Component                                                                          |
 |-------------|--------------|---------------------------------------------------------------------------------------------|
