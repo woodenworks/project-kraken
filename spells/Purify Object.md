@@ -15,4 +15,4 @@ You perform a ritual to rewrite the essence of a magic item, removing a curse ef
 | Rare        | 3 hours      | a diamond worth at least 500 gp                                                             |
 | Very Rare   | 8 hours      | a diamond worth at least 1,000 gp                                                           |
 | Legendary   | 24 hours     | diamonds worth at least 25,000 gp                                                           |
-| Artifact    | 24 hours     | diamonds worth at least 25,000 gp and an item of particular relevance, determined by the GM |
+| Artifact    | 24 hours     | diamonds worth at least 25,000 gp and an item of particular relevance to the artifact, determined by the GM |
