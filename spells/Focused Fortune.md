@@ -6,4 +6,4 @@ _Divination Cantrip_
 **Components:** V,S  
 **Duration:** Instantaneous
 
-You channel the eddies of the Dream around yourself. Until the start of your next turn, all creatures within 5 feet of you have advantage on their next attack roll.
+You channel the eddies of the Dream around yourself. Until the start of your next turn, whenever a creature within 5 feet of you makes an attack roll, that creature has advantage on its attack. A creature can only gain this benefit once per turn.
