@@ -1,5 +1,5 @@
 ## Arrow of Thundercalling
-*(Wondrous item, rare)*
+*Wondrous item, rare*
 
 This arrow has a lightweight metal shaft, with a jagged arrowhead which hums and crackles faintly.
 
