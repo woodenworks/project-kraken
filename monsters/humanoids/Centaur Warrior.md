@@ -11,7 +11,6 @@ ___
 ___
 - **Skills** Athletics +6, Perception +3, Survival +3
 - **Senses** passive Perception 13
-- **Languages** Plains Speak
 - **Challenge** 1 (200 XP) :: **Proficiency Bonus**  +2
 ___
 ***Charge.*** If the centaur moves at least 10 feet in a straight line toward a target and then hits it with a melee weapon attack on the same turn, the attack deals an extra 3 (1d6) damage for every 10 feet moved.
