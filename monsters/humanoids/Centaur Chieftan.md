@@ -11,7 +11,6 @@ ___
 ___
 - **Skills** Athletics +6, Perception +3, Survival +3
 - **Senses** passive Perception 13
-- **Languages** Plains Speak
 - **Challenge** 4 :: **Proficiency Bonus**  +2
 ___
 ***Relentless Charge.*** If the centaur moves at least 10 feet in a straight line toward a target and then makes a melee weapon attack, the first hit against the target deals an extra 4 (1d8) damage for every 10 feet moved. If the centaur damages a creature with this trait, it will not provoke attacks of opportunity until the end of its turn.
