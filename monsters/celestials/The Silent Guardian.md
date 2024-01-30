@@ -59,9 +59,9 @@ On initiative count 20 (losing initiative ties), the silent guardian can use the
 
 |d6|Summon|
 |:-:|:---|
-|1–2|1d6 Skeletons|
-|3–4|1d2 Couatls|
-|5–6|1 Deva|
+|1–3|1d6 Skeletons with 1 hit point each|
+|4–5|1d2 Couatls|
+|6|1 Deva|
 
 ### Info  
 The Silent Guardian is a particularly powerful celestial who leads a battalion of Devas. Her agents are frequently seen in the Material plane working to aid the Aradonian Empire, defying millenia of tradition. When she is not disguisinger her true celestial appearance, she has the lower body of a feathered serpent and the upper torso of a humanoid female, with two pairs of feathered wings spreading behind her. She frequently appears instead in her mortal form. Regardless of the shape she takes, she always wears a mask.
