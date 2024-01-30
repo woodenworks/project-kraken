@@ -1,4 +1,3 @@
-{{WIP}}
 ## Forensic Detect Magic
 _2nd-level divination (ritual)_
 
@@ -7,10 +6,8 @@ _2nd-level divination (ritual)_
 **Components:** V,S  
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
-
-In addition, you are able to detect whether any spells have been 
+For the duration, you sense whether any spells have been cast within 30 feet of you during the last hour. If you have spell slots of the spell's level, you are able to identify which spell it was, as well as the class of the caster. If it is a higher level spell than you have spell slots, or if it was an unusual or bespoke spell (i.e., a spell that is not listed in a published source), then you still learn which level of spell it was and what school of magic.
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-_**At Higher Levels.**_ When cast at a higher
+_**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd or 4th level, you can detect spells which have been cast within the last 8 hours. When you use a spell slot of 5th or 6th level, you can detect spells which have been cast within the last 24 hours. When you use a spell slot of 7th level or higher, you can detect any spells of 6th level or higher which have been cast within the last year, in addition to all spells cast within the last 24 hours.
