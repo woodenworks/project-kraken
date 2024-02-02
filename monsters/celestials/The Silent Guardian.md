@@ -40,7 +40,7 @@ ___
 ***Scorching Smite.*** The Silent Guardian adds 14 (4d6) fire damage to her next melee weapon attack. The target must succeed on a DC 18 Constitution saving throw or become vulnerable to fire damage for one minute. (Creatures immune to fire damage automatically succeed on this saving throw.)
 
 ### Reactions
-***Opportunity Attack.*** The The Silent Guardian can make a melee weapon attack whenever a creature enters or leaves her melee attack range, or when a creature within 5 feet of her makes an attack against a target other than her (and that target doesn't have the Sentinel feat). 
+***Opportunity Attack.*** The Silent Guardian can make a melee weapon attack whenever a creature enters or leaves her melee attack range, or when a creature within 5 feet of her makes an attack against a target other than her (and that target doesn't have the Sentinel feat). 
 
 ### Legendary Actions
 The Silent Guardian can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. She regains spent legendary actions at the start of her turn.
