@@ -1,5 +1,5 @@
 ## Arcanichal Curiosity
-*(Wondrous item, rare)*
+*Wondrous item, rare*
 
 This strange little spherical device seems to be made of metal, with thin lines of magical light running along it. Faint whirs and clicks are audible from within. Upon closer inspection, there are many small buttons and switches concealed upon the surface.
 
