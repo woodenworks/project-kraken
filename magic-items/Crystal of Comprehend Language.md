@@ -1,5 +1,5 @@
 ## Crystal of Comprehend Language
-*(Wondrous item, uncommon)*
+*Wondrous item, uncommon*
 
 This crystalline rod is roughly six inches long with and glowing slightly. There are lines marking it into three sections, with smaller tick marks between them. It has been imbued with the saliva of someone who speaks a specific language (determined by the GM) and has 3 charges. As an action, you can use a charge to the crystal. While this effect is active, you can speak, understand, read and write this language with no accent, as if you were a native speaker. The effect ends after three hours or if the player moves more than ten feet from the crystal.
 
