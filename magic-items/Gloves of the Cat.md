@@ -1,5 +1,5 @@
 ## Gloves of the Cat
-*(Wondrous item, uncommon) requires attunement*
+*Wondrous item, uncommon (requires attunement)*
 
 These black leather gloves fit perfectly, conforming to your hands. When activated, silvery claws manifest from the fingers.
 
