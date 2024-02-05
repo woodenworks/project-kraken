@@ -1,5 +1,5 @@
 ## Perfect Trykimine
-*(Wondrous item, uncommon) requires attunement by a Trykimar*
+*Wondrous item, uncommon (requires attunement by a Trykimar)*
 
 This perfect gemstone glitters with its own internal light. The changeable nature of the light within makes trying to identify the color of the gemstone itself impossible. According to legend, these stones are the crystalized souls of powerful Trykimar.
 
