@@ -7,7 +7,7 @@ _When the fledgeling Aradadonian Empire first invaded Arm Polavia, its Human sol
 
 --------
 
-_**Note: My original idea was to make several distinct items, but it could alternatively be a single eye with this description:**_
+_**Note: My original idea was to make several distinct items, but it could alternatively be a single item with this description:**_
 
 When you place this glass eye in your empty eye socket, you gain the following abilities, depending on the rarity of the item:
 
