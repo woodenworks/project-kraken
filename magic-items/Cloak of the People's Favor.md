@@ -1,5 +1,5 @@
 ## Cloak of the People's Favor
-*(Wondrous item, uncommon)*
+*Wondrous item, uncommon*
 
 This comfortable Ath'Anwe cloak is imbued with a little magic from each member of a Clan, and is typically given as thanks to one who has aided them in some way. The inside is lined with small embroidered sigils which emit a soft white glow. Each time a charge is expended, one sigil is extinguished.
 
