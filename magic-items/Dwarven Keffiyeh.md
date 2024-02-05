@@ -1,5 +1,5 @@
 ## Dwarven Keffiyeh
-*(Wondrous item, uncommon)*
+*Wondrous item, uncommon*
 
 This square cloth is stitched with traditional dwarven patterns. It can be wrapped around the head, and when worn in this way protects the wearer from harsh desert conditions. 
 
