@@ -1,5 +1,5 @@
 ## Soldier's Eye
-*Wondrous item, common*
+*Wondrous item, rarity varies*
 
 When you place this glass eye in your empty eye socket, you gain the following abilities, depending on the rarity of the item:
 
