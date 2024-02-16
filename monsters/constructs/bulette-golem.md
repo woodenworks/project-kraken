@@ -9,7 +9,7 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |22 (+6)|9 (-1)|22 (+6)|2 (-4)|10 (+0)|1 (-5)|
 ___
-- **Condition Immunities**  fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+- **Damage Immunities**     fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 - **Condition Immunities**  charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses**                darkvision 60 ft., tremorsense 60ft., passive Perception 10
 - **Languages**             understands the languages of its creator but can't speak
