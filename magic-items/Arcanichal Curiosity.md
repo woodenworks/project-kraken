@@ -1,3 +1,5 @@
+{{Work in progress}}
+
 ## Arcanichal Curiosity
 *Wondrous item, rare*
 
