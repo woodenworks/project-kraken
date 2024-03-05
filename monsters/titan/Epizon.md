@@ -1,5 +1,5 @@
 ## Epizon, The Titan
-*Gargantuan titan (half-dragon, half-giant), chaotic good*
+*Gargantuan Titan (Dragon & Giant ancestry), chaotic good*
 ___
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 503 (25d20 + 240)
@@ -24,7 +24,7 @@ ___
 
 Additionally, he can now use the options in the “Mythic Actions” section for 1 hour. Award a party an additional 75,000 XP (150,000 XP total) for defeating Epizon after his Titan's Wrath activates.
 
-***Child of Two Peoples.*** Epizon can be affected by any ability or attack that targets giants or dragons.
+***Child of Two Peoples.*** Epizon can be affected by any ability or attack that targets Giants or Dragons.
 
 ***Enduring Nature.*** Epizon doesn’t need to eat, drink, or breathe, and is immune to disease. He does not age, and is unaffected by magic that changes age.
 
