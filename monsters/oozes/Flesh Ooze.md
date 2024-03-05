@@ -18,7 +18,7 @@ ___
 ___
 ***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.
 
-***Noxious Nature.*** Whenever the ooze takes damage, all creatures within 5 feet must make a DC 12 Constitution saving throw, taking 1d4 necrotic damage on a failure.
+***Noxious Nature.*** Whenever the ooze takes damage, all creatures within 5 feet must make a DC 12 Constitution saving throw, taking 1d4 necrotic damage and becoming poisoned on a failure.
 
 ***False Appearance.*** While the ooze remains motionless, it is indistinguishable from a pile of viscera.
 
