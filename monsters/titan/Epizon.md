@@ -32,9 +32,9 @@ Additionally, he can now use the options in the “Mythic Actions” section for
 
 ***Multiattack.*** Epizon makes three attacks: two with his greatsword and one with his tail.
 
-***Greatsword.*** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 23 (4d6 + 9) force damage plus 21 (6d6) lightning damage. If the target is a flammable object that is not being held or worn, it catches fire.
+***Greatsword.*** _Melee Weapon Attack:_ +17 to hit, reach 15 ft., one target. _Hit:_ 23 (4d6 + 9) force damage plus 21 (6d6) lightning damage. If the target is a flammable object that is not being held or worn, it catches fire.
 
-***Tail.*** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 25 (3d10 + 9) bludgeoning damage. If the target is a creature, it must succeed on a DC 24 Constitution saving throw or be stunned until the end of its next turn.
+***Tail.*** _Melee Weapon Attack:_ +17 to hit, reach 15 ft., one target. _Hit:_ 25 (3d10 + 9) bludgeoning damage. If the target is a creature, it must succeed on a DC 24 Constitution saving throw or be stunned until the end of its next turn.
 
 ***Lightning Breath (Recharge 5–6).*** Epizon exhales lightning in a 120–foot line that is 10 feet wide. Each creature in that area must make a DC 24 Dexterity saving throw, taking 93 (17d10) lightning damage on a failed save, or half as much damage on a successful one. Flammable objects in this path that are not being held or worn catch fire.
 
