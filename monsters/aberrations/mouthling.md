@@ -1,5 +1,5 @@
 ## Mouthling
-*Tiny aberration, neutral*
+*Tiny Aberration, neutral*
 ___
 - **Armor Class**  13
 - **Hit Points**   10 (3d4 + 3)
