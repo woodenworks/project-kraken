@@ -1,31 +1,22 @@
 ## Epizon, The Titan
 *Gargantuan titan (half-dragon, half-giant), chaotic good*
 ___
-**Armor Class** :: 21 (natural armor)
-
-**Hit Points**  :: 503 (25d20 + 240)
-
-**Speed**       :: 50 ft., fly 100 ft. (hover), swim 50 ft.
+- **Armor Class** 21 (natural armor)
+- **Hit Points** 503 (25d20 + 240)
+- **Speed** 50 ft., fly 100 ft. (hover), swim 50 ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |29 (+9)|14 (+2)|30 (+10)|21 (+5)|20 (+5)|26 (+8)|
 ___
-**Saving Throws** :: DEX +10, CON +18, WIS +13, CHA +16
-
-**Skills** :: Arcana +13, History +13, Insight +13, Perception +13
-
-**Damage Resistances** :: Acid, Cold, Fire; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
-
-**Damage Immunities** :: Lightning, Thunder
-
-**Condition Immunities** :: charmed, frightened, poisoned
-
-**Senses**               :: truesight 120 ft., passive Perception 31
-
-**Languages**            :: All
-
-**Challenge**            :: 25 (75,000 XP)  {{width:80px;}} **Proficiency Bonus**  +8
+- **Saving Throws** DEX +10, CON +18, WIS +13, CHA +16
+- **Skills** Arcana +13, History +13, Insight +13, Perception +13
+- **Damage Resistances** Acid, Cold, Fire; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+- **Damage Immunities** Lightning, Thunder
+- **Condition Immunities** charmed, frightened, poisoned
+- **Senses** truesight 120 ft., passive Perception 31
+- **Languages** All
+- **Challenge** 25 (75,000 XP) :: **Proficiency Bonus**  +8
 ___
 ***Legendary Resistance (3/Day).*** If Epizon fails a saving throw, he can choose to succeed instead.
 
