@@ -1,4 +1,4 @@
-## Ath'anwe Scout's Earring
+## Ath'Anwe Scout's Earring
 *Wondrous item, uncommon (requires attunement)*
 
 A plain stud fashioned from bone, small enough to avoid drawing attention.
