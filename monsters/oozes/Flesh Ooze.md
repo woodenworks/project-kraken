@@ -18,12 +18,12 @@ ___
 ___
 ***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.
 
-***Noxious Nature.*** Whenever the ooze takes damage, all creatures within 5 feet must make a DC 12 Constitution saving throw, taking 1d4 necrotic damage and becoming poisoned on a failure.
+***Noxious Nature.*** Whenever the ooze takes damage, all creatures within 5 feet must make a DC 12 Constitution saving throw, taking 1d4 poison damage and becoming poisoned on a failure.
 
 ***False Appearance.*** While the ooze remains motionless, it is indistinguishable from a pile of viscera.
 
 ### Actions
-***Pseudopod.*** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) necrotic damage.
+***Pseudopod.*** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) poison damage.
 
 
 
