@@ -10,7 +10,7 @@ ___
 |12 (+1)|6 (-2)|16 (+3)|1 (-5)|6 (-2)|2 (-4)|
 ___
 - **Skills** Stealth +2
-- **Damage Resistances** acid, cold, fire
+- **Damage Resistances** poison, cold, necrotic
 - **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 - **Languages** —
