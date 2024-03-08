@@ -18,4 +18,4 @@ ___
 ### Actions
 ***Bite.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 4 (1d4)+2 piercing damage.
 
-***Gibber.*** The mouthling babbles incoherently. Each creature within 10 feet of the mouthling and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can’t take reactions until the start of its next turn and makes its next attack with disadvantage. Aberrations are immune to this effect.
+***Gibber.*** The mouthling babbles incoherently. Each creature within 10 feet of the mouthling that can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can’t take reactions until the start of its next turn and makes its next attack with disadvantage. Aberrations are immune to this effect.
