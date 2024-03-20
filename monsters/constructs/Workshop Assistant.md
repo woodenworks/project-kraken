@@ -1,5 +1,5 @@
 ## Workshop Assistant
-*tiny construct, unaligned*
+*Tiny construct, unaligned*
 ___
 - **Armor Class**  10 (Natural Armor)
 - **Hit Points**   10 (2d4+5)
