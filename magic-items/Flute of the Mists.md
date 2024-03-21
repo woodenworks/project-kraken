@@ -1,6 +1,6 @@
 {{Work in Progress}}
 
-## Flute of the Mists
+## ~~Flute of the Mists~~
 
 _Wondrous item, very rare (requires attunment by a creature profiecient with flutes)_
 
