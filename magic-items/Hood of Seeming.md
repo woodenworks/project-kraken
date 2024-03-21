@@ -1,6 +1,6 @@
 {{Work in progress}}
 
-## Hood of Seeming
+## ~~Hood of Seeming~~
 *Wondrous item, uncommon (requires attunement)*
 
 This hood, designed to be worn with a cloak or robe, bears arcane embroidery in silver thread within the lining.
