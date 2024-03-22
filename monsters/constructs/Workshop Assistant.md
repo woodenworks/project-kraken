@@ -13,12 +13,13 @@ ___
 - **Condition Immunities**  charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses**                darkvision 30 ft., passive Perception 9
 - **Languages**             understands the languages of its creator but can't speak
-- **Challenge**             1/4 (?? XP) :: **Proficiency Bonus** +2
+- **Challenge**             1/4 (50 XP) :: **Proficiency Bonus** +2
 ___
 ***Immutable Form.*** The construct is immune to any spell or effect that would alter its form.
 
+***Fragile.*** If the Workshop Assistant is reduced to 0 hit points by bludgeoning or thunder damage, it is destroyed beyond repair and cannot regain hit points.
 
 ### Actions
-***Arcanichal Jolt*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 2 (1d4) lightning damage. Imposes disadvantage on concentration checks made as a result of this damage.
+***Arcanichal Jolt.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 2 (1d4) lightning damage. Imposes disadvantage on concentration checks made as a result of this damage.
 
-***Repair*** The Workshop Assistant touches a friendly Construct that is not a Workshop Assistant and makes a DC 16 Dexterity check. If successful, it restores 1d4 hit points to the Construct. This can be applied to a Construct at 0 hit points.
+***Repair.*** The Workshop Assistant touches a Construct that is not hostile to it and makes a DC 16 Dexterity check. If successful, it restores 1d4 hit points to the Construct. This can be applied to a Construct at 0 hit points.
