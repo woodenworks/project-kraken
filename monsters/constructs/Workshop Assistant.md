@@ -1,8 +1,8 @@
 ## Workshop Assistant
-*Tiny construct, unaligned*
+*Tiny Construct, unaligned*
 ___
 - **Armor Class**  16 (Natural Armor)
-- **Hit Points**   5 (1d4+2)
+- **Hit Points**   5 (1d4+3)
 - **Speed**        20 ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -21,4 +21,4 @@ ___
 ### Actions
 ***Arcanichal Jolt*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 2 (1d4) lightning damage. Imposes disadvantage on concentration checks made as a result of this damage.
 
-***Repair*** The Workshop assistant touches a friendly construct and makes a DC 16 dexterity check. If successful, it restores 1d4 hit points to the construct. This can be applied to a creature at 0 hit points.
+***Repair*** The Workshop Assistant touches a friendly Construct that is not a Workshop Assistant and makes a DC 16 Dexterity check. If successful, it restores 1d4 hit points to the Construct. This can be applied to a Construct at 0 hit points.
