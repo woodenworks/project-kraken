@@ -1,6 +1,6 @@
 {{Work in Progress}}
 
-## Hood of Anonymity 
+## ~~Hood of Anonymity~~
 *Wondrous item, rare*
 
 The inside of this otherwise-generic hood is embroidered with silver arcane script.
