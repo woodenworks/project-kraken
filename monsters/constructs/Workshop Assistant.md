@@ -20,6 +20,6 @@ ___
 ***Fragile.*** If the Workshop Assistant is reduced to 0 hit points by bludgeoning or thunder damage, it is destroyed beyond repair and cannot regain hit points.
 
 ### Actions
-***Arcanichal Jolt.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 2 (1d4) lightning damage. Imposes disadvantage on concentration checks made as a result of this damage.
+***Arcanichal Jolt.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 2 (1d4) lightning damage. Constitution saving throws made to maintain concentration as a result of taking this damage are made with disadvantage.
 
 ***Repair.*** The Workshop Assistant touches a Construct that is not hostile to it and makes a DC 16 Dexterity check. If successful, it restores 1d4 hit points to the Construct. This can be applied to a Construct at 0 hit points.
