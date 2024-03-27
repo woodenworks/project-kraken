@@ -1,18 +1,16 @@
-{{Work in progress}}
-
 ## Stidrak
 *Small Humanoid (Goblin), neutral evil*
 ___
-- **Armor Class** 15
-- **Hit Points** 55 (6d10 + 37)
+- **Armor Class** 15 (mage armor)
+- **Hit Points** 56 (6d8 + 35)
 - **Speed** 25 ft.
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|12 (+1)|15 (+2)|10 (+0)|14 (+2)|
 ___
-- **Skills** Athletics +6, Perception +3, Survival +3
-- **Senses** passive Perception 13
+- **Skills** Deception +5, Insight +4, Perception +4, Sleight of Hand +5
+- **Senses** passive Perception 14
 - **Challenge** 3 :: **Proficiency Bonus**  +2
 ___
 
