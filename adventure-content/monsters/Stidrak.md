@@ -9,7 +9,7 @@ ___
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|12 (+1)|15 (+2)|10 (+0)|14 (+2)|
 ___
-- **Skills** Deception +5, Insight +4, Perception +4, Sleight of Hand +5
+- **Skills** Deception +4, Insight +4, Perception +4, Sleight of Hand +5
 - **Senses** passive Perception 14
 - **Challenge** 3 :: **Proficiency Bonus**  +2
 ___
