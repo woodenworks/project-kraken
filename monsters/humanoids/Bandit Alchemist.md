@@ -1,8 +1,8 @@
-## Bandit Alchemis
-*Medium Humanoid (any race), any non-lawful alignment*
+## Bandit Alchemist
+*Humanoid (any race), typically any non-lawful alignment*
 ___
 - **Armor Class** 12 (Leather Armor)
-- **Hit Points** 17 (3d8 + 4)
+- **Hit Points** 21 (3d8 + 8)
 - **Speed** 30 ft.
 ___
 |STR|DEX|CON|INT|WIS|CHA|
@@ -11,15 +11,18 @@ ___
 ___
 - **Skills** Deception +2, Medicine +4
 - **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Imperial 
-- **Challenge** 1/2 (100 XP) :: **Proficiency Bonus**  +2
+- **Challenge** 1 (200 XP) :: **Proficiency Bonus**  +2
 ___
+***Nocturnal Eye Drops.*** The alchemist has darkvision, even if it is not granted by its race.
+
 ### Actions
-***Fire Flask.*** _Ranged Weapon Attack:_ +4 to hit, range 20/60., one target. _Hit:_ 8 (1d6 + 4) fire damage. Additionally, all creatures within 5 feet of the target must succeed on a DC 14 Dexterity saving throw or suffer 1d6 fire damage.
+***Fire Flask.*** _Ranged Weapon Attack:_ +4 to hit, range 20/60., one target. _Hit:_ 7 (1d6 + 4) fire damage. Additionally, all creatures within 5 feet of the target must succeed on a DC 14 Dexterity saving throw or take 3 (1d6) fire damage.
 
-***Smoking Flask (1/Day).*** The Bandit Alchemist throws a flask at a solid surface or object within 30 feet. It releases a 10 foot sphere of smoke centered on the point of impact. The smoke spreads around corners, and its area is heavily obscured for 30 seconds or until a wind such as the gust spell disperses it.
+***Smoking Flask (1/Day).*** The Bandit Alchemist throws a flask at a solid surface or object within 30 feet. It releases a 10-foot-radius sphere of smoke centered on the point of impact. The smoke spreads around corners, and its area is heavily obscured for 30 seconds or until dispersed by wind, such as the _gust_ spell.
 
-***Flask of Laughs (1/Day).*** The Bandit Alchemist throws a flask at a solid surface or object within 30 feet. Creatures within 10 feet of the point of impact must succeed on a DC 15 Constitution saving throw or become overwhelmed with giggles, suffering disadvantage on all attacks made until the end of their next turn.
+***Flask of Laughs (2/Day).*** The Bandit Alchemist throws a flask at a solid surface or object within 30 feet. Each creature within 10 feet of the point of impact must make a DC 15 Constitution saving throw. On a failure, the creature is overcome with giggles; it has disadvantage on all attack rolls made until the end of its next turn and cannot cast spells that require a verbal component.
 
 ### Bonus Actions
-***Minor Healing Flask (2/Day).*** The Alchemist drinks a potion which restores 1d4+2 hit points.
+***Minor Healing Potion (2/Day).*** The Alchemist drinks a potion which restores 2d4+2 hit points.
+
+***Pyro Gel (3/day).*** The Alchemist tosses a flask of gel to a willing creature within 10 feet. That creature may use its reaction to apply the gel to one melee weapon. For the next minute, all attacks made with that weapon deal an additional 1d4 fire damage.
