@@ -1,7 +1,7 @@
 ## Bandit Alchemist
-*Humanoid (any race), typically any non-lawful alignment*
+*Humanoid (any race), typically a non-lawful alignment*
 ___
-- **Armor Class** 12 (Leather Armor)
+- **Armor Class** 13 (Leather Armor)
 - **Hit Points** 21 (3d8 + 8)
 - **Speed** 30 ft.
 ___
