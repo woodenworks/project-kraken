@@ -9,7 +9,7 @@ ___
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|15 (+2)|14 (+2)|16 (+3)|13 (+1)|10 (+0)|
 ___
-- **Skills** Deception +2, Medicine +4
+- **Skills** Deception +2, Medicine +3
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Challenge** 1 (200 XP) :: **Proficiency Bonus**  +2
 ___
