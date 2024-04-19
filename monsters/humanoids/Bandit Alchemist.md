@@ -2,8 +2,8 @@
 *Humanoid (any race), typically a non-lawful alignment*
 ___
 - **Armor Class** 13 (Leather Armor)
-- **Hit Points** 25 (4d8 + 8)
-- **Speed** 30 ft.
+- **Hit Points** 26 (4d8 + 8)
+- **Speed** based on race, or 30 feet
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
