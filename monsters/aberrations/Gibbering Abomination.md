@@ -3,61 +3,49 @@
 ## Gibbering Abomination
 *Large Aberration, neutral*
 ___
-- **Armor Class**  9
-- **Hit Points**   79 (1d4 + 5)
+- **Armor Class**  7
+- **Hit Points**   149 (18d10 + 50)
 - **Speed**        0 ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|20 (+5)|3 (-4)|18 (+4)|3 (-4)|10 (+0)|6 (-3)|
+|20 (+5)|3 (-4)|18 (+4)|4 (-3)|10 (+0)|6 (-3)|
 ___
 - **Condition Immunities**  charmed, grappled, prone, restrained
-- **Senses**                darkvision 60 ft., passive Perception 16
-- **Languages**             Pottymouth, Gibberish
-- **Challenge**             11 (8645 XP)	::	**Proficiency Bonus**  +8
+- **Senses**                darkvision 60 ft., passive Perception 10
+- **Languages**             Understands Deep Speech but cannot speak
+- **Challenge**             5 (1,800 XP)	::	**Proficiency Bonus**  +3
 ___
-***Aberrant Ground.*** When initiative is rolled, surfaces in a 30-foot radius around the abomination becomes doughlike difficult terrain; this effect spreads in a radius on the floor and ceiling, and climbs walls. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
+***Aberrant Ground.*** When initiative is rolled, surfaces in a 30-foot radius around the Abomination becomes doughlike difficult terrain; this effect spreads in a radius on the floor and ceiling, and climbs walls. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
 
-***Pack Tactics.*** These guys work together like peanut butter and jelly.
+***Immutable Form.*** The Gibbering Abomination is immune to any spell or effect that would alter its form.
 
-***Fowl Appearance.*** While the creature remains motionless, it is indistinguishable from a normal chicken.
-
-***Hangriness.*** This creature is angry, and hungry. It will refuse to do anything with you until its hunger is satisfied. 
-	When in visual contact with this creature, you must purchase an extra order of fries, even if they say they aren't hungry.
-
+***Stationary.*** The Gibbering Mouther cannot be moved and automatically fails Dexterity saving throws.
 
 ### Actions
-***Elbow Hold.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
-
-***Suffering Wringer.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
-
-***Spellcasting.*** The {{monster}} casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):<br>
-- At will: _detect evil and good, invisibility_ (self only)<br>
-- 3/day each: _blade barrier, dispel evil and good, flame strike, raise dead_<br>
-- 1/day each: _commune, control weather, insect plague_
+{{***Lorem.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) }}
 
 ### Bonus Actions
-***Elbow Hold.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
-
-***Team Elbow.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+***Command Nutrition.*** The Gibbering Abomination beckons a Gibbering Mouther or Mouthling that it can see. If the target has enough movement speed, it uses its reaction to move to the Abomination. The Abomination absorbs the target, destroying it, and regains hit points equal to the hit points of the target (maximum of 50).
 
 ### Reactions
-***Suffering Wringer.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
-
-***Team Elbow.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+***Flab.*** When a creature damages the Abomination using a melee weapon attack that deals piercing or slashing damage, the Abomination can use its reaction and attempt to trap the weapon within its flesh. The attacking creature must succeed on a DC 16 Strength saving throw; on a failure, the weapon is stuck until a creature uses an action to wrench the weapon free. (As long as the weapon's owner remains within 5 feet of it, enemy creatures cannot attempt to retrieve the weapon.)
 
 ### Legendary Actions
-Creature can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Creature regains spent legendary actions at the start of its turn.
+The Gibbering Abomination can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Creature regains spent legendary actions at the start of its turn.
 
-***Elbow Hold.*** Legendary Description 
+***Spawn Mouthling.*** The Abomination loses 5 hit points, and a **Mouthling*** with 5 hit points appears in an unoccupied space affected by Abberant Ground that the Abomination can see. 
 
-***Suffering Wringer.*** Legendary Description 
-
-***Team Elbow (Costs 2 Actions).*** Legendary Description 
+***Gnashing Teeth.*** *Melee Weapon Attack:* +8 to hit, one target standing on Aberrant Ground. *Hit* 5 (1d6 + 2) piercing damage. On a critical hit, the Abomination regains hit points equal to the damage dealt.
 
 ### Lair Actions
-If Creature's Mythic trait has activated in the last hour, it can use the options below as legendary actions.
+The unnatural magic of the Gibbering Abomination allows it to take lair actions. On initiative count 20 (losing initiative ties), the Abomination takes a lair action to cause one of the following effects:
 
-***Suffering Wringer.*** Legendary Description 
+***No Escape.*** If the Abomination's Abberant Ground trait is affecting any walls with openings, such as doorways or windows, fleshy membranes seal them shut. These membranes have AC 12 and 30 hit points each
 
-***Team Elbow (Costs 2 Actions).*** Legendary Description 
+***Discordant Gibbering.*** The Abomination babbles incoherently, a deep and discordant symphony of gibberish. Any creature within 30 feet who can hear it must succeed on a DC 14 Wisdom saving throw. On a failure, the creature suffers paranoid hallucinations and {{effect}}
+
+### Info
+The Gibbering Abomination is the foulest evolution of the Gibbering Mouther. Formed by the fusion of several Mouthers, the Abomination acts as a hive queen, linking together the minds of Gibbering Mouthers, Mouthlings, and other lesser Aberrations in the vicinity. Nefarious warlocks and foul sorcerers will sometimes use their magic to jumpstart this process, literally stitching several Mouthers together in a dark ritual.
+
+Immobile—but always hungry—them Abomination will direct Mouthers and Mouthlings to retrieve prey that can feed its appetite.
