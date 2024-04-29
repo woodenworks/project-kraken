@@ -1,5 +1,3 @@
-{{Work in Progress}}
-
 ## Gibbering Abomination
 *Large Aberration, neutral*
 ___
@@ -12,11 +10,11 @@ ___
 |20 (+5)|3 (-4)|18 (+4)|4 (-3)|10 (+0)|6 (-2)|
 ___
 - **Condition Immunities**  charmed, grappled, prone, restrained
-- **Senses**                darkvision 100 ft., tremorsense for all connected Aberrant Ground, passive Perception 10
+- **Senses**                darkvision 100 ft., tremorsense 10 ft., passive Perception 10
 - **Languages**             Understands Deep Speech but cannot speak
 - **Challenge**             5 (1,800 XP)	::	**Proficiency Bonus**  +3
 ___
-***Aberrant Ground.*** When initiative is rolled, all surfaces within the room (up to a 100-foot radius around the Abomination) become doughlike difficult terrain; this includes the floor, ceiling, and walls, but does not spread outside of the room where the Abomination is anchored. Each creature that starts its turn in this area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
+***Aberrant Ground.*** All surfaces within the room (up to a 100-foot radius around the Abomination) become doughlike difficult terrain; this includes the floor, ceiling, and walls, but does not spread outside of the room where the Abomination is anchored. The abomination's tremorsense extends across the affected area. Each creature that starts its turn in this area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
 
 ***Immutable Form.*** The gibbering abomination is immune to any spell or effect that would alter its form.
 
@@ -25,35 +23,35 @@ ___
 ### Actions
 ***Multiattack.*** The gibbering abomination makes one bite attack and, if it can, uses its Blinding Spittle.
 
-***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit*  17 (5d6) piercing damage. If the target is killed by this damage, it is absorbed into the Abomination which regains 20 hit points and its use of Blinding Spittle.
+***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit*  17 (5d6) piercing damage. If the target is killed by this damage, it is absorbed into the abomination which regains 20 hit points and its use of Blinding Spittle.
 
-***Blinding Spittle (1/day).*** The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 14 Dexterity saving throw or be blinded until the end of the mouther's next turn.
+***Blinding Spittle (1/day).*** The abomination spits a chemical glob at a point it can see within 30 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 14 Dexterity saving throw or be blinded until the end of the abomination's next turn.
 
-***Eldritch Word (Recharge 5-6).*** All of the abomination's voices coalesce into a single word of Deep Speech. Any creature who hears it must make a DC 16 Wisdom saving throw, 
+***Eldritch Word (Recharge 5-6).*** All of the abomination's voices coalesce into a single word of Deep Speech. Any creature who hears it must succeed on a DC 14 Wisdom saving throw, made with advantage if the creature is not touching Aberrant Ground. A creature that fails its saving throw joins the babbling chorus and becomes unable to speak or use verbal components for 10 minutes. The creature may attempt the saving throw again at the end of each of it's turns, ending the effect on a success.
 
 ### Bonus Actions
-***Command Nutrition.*** The Gibbering Abomination beckons a Gibbering Mouther or Mouthling that it can see. If the target has enough movement speed, it uses its reaction to move to the Abomination. The Abomination absorbs the target, destroying it, and regains hit points equal to the hit points of the target (maximum of 50). Additionally, the abomination regains its use of Blinding Spittle.
+***Command Nutrition.*** The gibbering abomination beckons a **gibbering mouther** or **mouthling*** that it can see. If the target has enough movement speed, it uses its reaction to move to the abomination. The abomination absorbs the target, destroying it, and regains hit points equal to the hit points of the target (maximum of 50). Additionally, the abomination regains its use of Blinding Spittle.
 
 ### Reactions
-***Flab.*** When a creature damages the Abomination using a melee weapon attack that deals piercing or slashing damage, the Abomination can use its reaction and attempt to trap the weapon within its flesh. The attacking creature must succeed on a DC 16 Strength saving throw; on a failure, the weapon is stuck until a creature uses an action to wrench the weapon free. (As long as the weapon's owner remains within 5 feet of it, enemy creatures cannot attempt to retrieve the weapon.)
+***Flab.*** When a creature damages the Abomination using a melee weapon attack that deals piercing or slashing damage, the abomination can use its reaction and attempt to trap the weapon within its flesh. The attacking creature must succeed on a DC 14 Strength saving throw; on a failure, the weapon is stuck until a creature uses an action to wrench the weapon free. (As long as the weapon's owner remains within 5 feet of it, enemy creatures cannot attempt to retrieve the weapon.)
 
 ### Legendary Actions
-The Gibbering Abomination can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The Abomination regains spent legendary actions at the start of its turn.
+The gibbering abomination can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The abomination regains spent legendary actions at the start of its turn.
 
-***Spawn Mouthling.*** The Abomination loses 5 hit points, and a **Mouthling*** with 5 hit points appears in an unoccupied space affected by Abberant Ground that the Abomination can see. 
+***Spawn Mouthling.*** The abomination loses 5 hit points, and a **mouthling*** with 5 hit points appears in an unoccupied space affected by Abberant Ground that the abomination can see. 
 
-***Spawn Mouther.*** The Abomination loses 50 hit points, and a **Gibbering Mouther*** with 50 hit points appears in an unoccupied space affected by Abberant Ground that the Abomination can see. 
+***Spawn Mouther.*** The abomination loses 50 hit points, and a **gibbering mouther** with 50 hit points appears in an unoccupied space affected by Abberant Ground that the abomination can see. 
 
-***Gnashing Teeth.*** *Melee Weapon Attack:* +8 to hit, one target standing on Aberrant Ground. *Hit*  10 (1d10 + 5) piercing damage. On a critical hit, the Abomination regains hit points equal to the damage dealt.
+***Gnashing Teeth.*** *Melee Weapon Attack:* +8 to hit, one target standing on Aberrant Ground. *Hit*  10 (1d10 + 5) piercing damage. On a critical hit, the abomination regains hit points equal to the damage dealt.
 
 ### Lair Actions
-The unnatural magic of the Gibbering Abomination allows it to take lair actions. If there are multiple Abominations in the same lair, only one lair action is taken, but saving throws to avoid its effects are made with disadvantage. On initiative count 20 (losing initiative ties), the Abomination takes a lair action to cause one of the following effects:
+The unnatural magic of the gibbering abomination allows it to take lair actions. If there are multiple abominations in the same lair, only one lair action is taken, but saving throws to avoid its effects are made with disadvantage. On initiative count 20 (losing initiative ties), the abomination takes a lair action to cause one of the following effects:
 
-***No Escape.*** If the Abomination's Abberant Ground trait is affecting any walls with openings, such as doorways or windows, fleshy membranes seal them shut. These membranes have AC 12, 30 hit points each, and vulnerability to slashing and cold damage.
+***No Escape.*** If the abomination's Abberant Ground trait is affecting any walls with openings, such as doorways or windows, fleshy membranes seal them shut. These membranes have AC 12, 30 hit points each, and vulnerability to slashing and cold damage.
 
-***Discordant Gibbering.*** The Abomination babbles incoherently, a deep and discordant symphony of gibberish. Any creature within the lair who can hear it must succeed on a DC 14 Wisdom saving throw. On a failure, the creature suffers 1d4 psychic damage for each consecutive turn where they fail this save.
+***Discordant Gibbering.*** The abomination babbles incoherently, a deep and discordant symphony of gibberish. Any creature within the lair who can hear it must succeed on a DC 14 Wisdom saving throw. On a failure, the creature suffers 1d4 psychic damage for each consecutive turn where they fail this save.
 
 ### Info
-The Gibbering Abomination is the foulest member of the Gibbering Horde. Formed by the fusion of several Mouthers, the Abomination acts as a hive queen, linking together the minds of Gibbering Mouthers, Mouthlings, and other lesser Aberrations in the vicinity. Three Gibbering Mouthers can merge to form a Gibbering Abomination, in a process that takes 24 hours. Nefarious warlocks and foul sorcerers will sometimes use their magic to jumpstart this process, literally stitching Mouthers together in a dark ritual.
+The gibbering abomination is the foulest member of the gibbering horde. Formed by the fusion of several mouthers, the abomination acts as a hive queen, linking together the minds of gibbering mouthers, mouthlings, and other lesser Aberrations in the vicinity. Three gibbering mouthers can merge to form a gibbering abomination, a process which takes 24 hours. Nefarious warlocks and foul sorcerers will sometimes use their magic to jumpstart this process, literally stitching mouthers together in a dark ritual.
 
-Immobile—but always hungry—the Abomination will spawn Mouthers and Mouthlings to hunt, then reabsorb them to feed its appetite.
+Immobile—but always hungry—the abomination will spawn mouthers and mouthlings to hunt, then reabsorb them to feed its appetite.
