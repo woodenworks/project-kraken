@@ -16,11 +16,11 @@ ___
 - **Languages**             Understands Deep Speech but cannot speak
 - **Challenge**             5 (1,800 XP)	::	**Proficiency Bonus**  +3
 ___
-***Aberrant Ground.*** When initiative is rolled, surfaces in a 30-foot radius around the Abomination becomes doughlike difficult terrain; this effect spreads in a radius on the floor and ceiling, and climbs walls. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
+***Aberrant Ground.*** When initiative is rolled, all surfaces within the room (up to a 100-foot radius around the Abomination) become doughlike difficult terrain; this includes the floor, ceiling, and walls, but does not spread outside of the room where the Abomination is anchored. Each creature that starts its turn in this area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
 
 ***Immutable Form.*** The Gibbering Abomination is immune to any spell or effect that would alter its form.
 
-***Stationary.*** The Gibbering Mouther cannot be moved and automatically fails Dexterity saving throws.
+***Anchored.*** The Gibbering Abomination is anchored to the floor and ceiling. It cannot be moved and automatically fails Dexterity saving throws. If the ceiling above it is destroyed, such as with a _disintegrate_ spell or when damaged by a creature with the Siege Monster trait, the Abomination collapses and loses its Aberrant Ground trait and Flab reaction.
 
 ### Actions
 {{***Lorem.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) }}
@@ -39,13 +39,13 @@ The Gibbering Abomination can take 3 legendary actions, choosing from the option
 ***Gnashing Teeth.*** *Melee Weapon Attack:* +8 to hit, one target standing on Aberrant Ground. *Hit* 5 (1d6 + 2) piercing damage. On a critical hit, the Abomination regains hit points equal to the damage dealt.
 
 ### Lair Actions
-The unnatural magic of the Gibbering Abomination allows it to take lair actions. On initiative count 20 (losing initiative ties), the Abomination takes a lair action to cause one of the following effects:
+The unnatural magic of the Gibbering Abomination allows it to take lair actions. If there are multiple Abominations in the same lair, only one lair action is taken, but saving throws to avoid its effects are made with disadvantage. On initiative count 20 (losing initiative ties), the Abomination takes a lair action to cause one of the following effects:
 
 ***No Escape.*** If the Abomination's Abberant Ground trait is affecting any walls with openings, such as doorways or windows, fleshy membranes seal them shut. These membranes have AC 12 and 30 hit points each
 
-***Discordant Gibbering.*** The Abomination babbles incoherently, a deep and discordant symphony of gibberish. Any creature within 30 feet who can hear it must succeed on a DC 14 Wisdom saving throw. On a failure, the creature suffers paranoid hallucinations and {{effect}}
+***Discordant Gibbering.*** The Abomination babbles incoherently, a deep and discordant symphony of gibberish. Any creature within the lair who can hear it must succeed on a DC 14 Wisdom saving throw. On a failure, the creature suffers paranoid hallucinations and {{effect}}
 
 ### Info
-The Gibbering Abomination is the foulest evolution of the Gibbering Mouther. Formed by the fusion of several Mouthers, the Abomination acts as a hive queen, linking together the minds of Gibbering Mouthers, Mouthlings, and other lesser Aberrations in the vicinity. Nefarious warlocks and foul sorcerers will sometimes use their magic to jumpstart this process, literally stitching several Mouthers together in a dark ritual.
+The Gibbering Abomination is the foulest member of the Gibbering Horde. Formed by the fusion of several Mouthers, the Abomination acts as a hive queen, linking together the minds of Gibbering Mouthers, Mouthlings, and other lesser Aberrations in the vicinity. Nefarious warlocks and foul sorcerers will sometimes use their magic to jumpstart this process, literally stitching Mouthers together in a dark ritual.
 
-Immobile—but always hungry—them Abomination will direct Mouthers and Mouthlings to retrieve prey that can feed its appetite.
+Immobile—but always hungry—the Abomination will direct Mouthers and Mouthlings to retrieve prey that can feed its appetite.
