@@ -14,11 +14,11 @@ ___
 - **Languages**             Understands Deep Speech but cannot speak
 - **Challenge**             5 (1,800 XP)	::	**Proficiency Bonus**  +3
 ___
-***Aberrant Ground.*** All surfaces within the room (up to a 100-foot radius around the Abomination) become doughlike difficult terrain; this includes the floor, ceiling, and walls, but does not spread outside of the room where the Abomination is anchored. The abomination's tremorsense extends across the affected area. Each creature that starts its turn in this area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
+***Aberrant Ground.*** All surfaces within the room (up to a 100-foot radius around the abomination) become doughlike difficult terrain; this includes the floor, ceiling, and walls, but does not spread outside of the room where the abomination is anchored. The abomination's tremorsense extends across the affected area. Each creature that starts its turn in this area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
 
 ***Immutable Form.*** The gibbering abomination is immune to any spell or effect that would alter its form.
 
-***Anchored.*** The gibbering abomination is anchored to the floor and ceiling. It cannot be moved and automatically fails Dexterity saving throws. If the ceiling above it is destroyed, such as with a _disintegrate_ spell or when damaged by a creature with the Siege Monster trait, the Abomination collapses and loses its Aberrant Ground trait and Flab reaction.
+***Anchored.*** The gibbering abomination is anchored to the floor and ceiling. It cannot be moved and automatically fails Dexterity saving throws. If the ceiling above it is destroyed, such as with a _disintegrate_ spell or when damaged by a creature with the Siege Monster trait, the abomination collapses and loses its Aberrant Ground trait and Flab reaction.
 
 ### Actions
 ***Multiattack.*** The gibbering abomination makes one bite attack and, if it can, uses its Blinding Spittle.
@@ -33,7 +33,7 @@ ___
 ***Command Nutrition.*** The gibbering abomination beckons a **gibbering mouther** or **mouthling*** that it can see. If the target has enough movement speed, it uses its reaction to move to the abomination. The abomination absorbs the target, destroying it, and regains hit points equal to the hit points of the target (maximum of 50). Additionally, the abomination regains its use of Blinding Spittle.
 
 ### Reactions
-***Flab.*** When a creature damages the Abomination using a melee weapon attack that deals piercing or slashing damage, the abomination can use its reaction and attempt to trap the weapon within its flesh. The attacking creature must succeed on a DC 14 Strength saving throw; on a failure, the weapon is stuck until a creature uses an action to wrench the weapon free. (As long as the weapon's owner remains within 5 feet of it, enemy creatures cannot attempt to retrieve the weapon.)
+***Flab.*** When a creature damages the abomination using a melee weapon attack that deals piercing or slashing damage, the abomination can use its reaction and attempt to trap the weapon within its flesh. The attacking creature must succeed on a DC 14 Strength saving throw; on a failure, the weapon is stuck until a creature uses an action to wrench the weapon free. (As long as the weapon's owner remains within 5 feet of it, enemy creatures cannot attempt to retrieve the weapon.)
 
 ### Legendary Actions
 The gibbering abomination can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The abomination regains spent legendary actions at the start of its turn.
