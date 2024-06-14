@@ -49,7 +49,7 @@ The unnatural magic of the gibbering abomination allows it to take lair actions.
 
 ***No Escape.*** If the abomination's Abberant Ground trait is affecting any walls with openings, such as doorways or windows, fleshy membranes seal them shut. These membranes have AC 12, 30 hit points each, and vulnerability to slashing and cold damage.
 
-***Discordant Gibbering.*** The abomination babbles incoherently, a deep and discordant symphony of gibberish. Any creature within the lair who can hear it must succeed on a DC 14 Wisdom saving throw. On a failure, the creature suffers 1d4 psychic damage for each consecutive turn where they fail this save.
+***Discordant Gibbering.*** The abomination babbles incoherently, a deep and discordant symphony of gibberish. Any creature who hears it must succeed on a DC 14 Wisdom saving throw, made with advantage if the creature is not touching Aberrant Ground. On a failure, the creature suffers 1d4 psychic damage for each consecutive turn where they fail this save.
 
 ### Info
 The gibbering abomination is the foulest member of the gibbering horde. Formed by the fusion of several mouthers, the abomination acts as a hive queen, linking together the minds of gibbering mouthers, mouthlings, and other lesser Aberrations in the vicinity. Three gibbering mouthers can merge to form a gibbering abomination, a process which takes 24 hours. Nefarious warlocks and foul sorcerers will sometimes use their magic to jumpstart this process, literally stitching mouthers together in a dark ritual.
