@@ -24,12 +24,12 @@ ___
 
 ***Razorswarm.*** When a creature starts its turn inside the swarm, it suffers 1d4+2 slashing damage.
 
-***Shapes in the Dark.*** While in darkness, the swarm gains advantage on Stealth (Dexterity) checks. Any time the swarm damages a creature that is in darkness, it deals an extra 1d4 psychic damage.
+***Shapes in the Dark.*** While in darkness, the swarm gains advantage on Stealth (Dexterity) checks. Any time the swarm damages a creature that is in darkness, it deals an extra 1d4 psychic damage. The area of the swarm is considered heavily obscured while it has more than half its hit points remaining. Otherwise, it is lightly obscured.
 
 ### Actions
 ***Multiattack.*** The swarm makes one Slicing Wings attack for every 30 Hit Points it has (rounded up), each against a different target within its area. It also uses its {placeholder action} if available.
 
-***Whirling Wings.*** A creature within the swarm must succeed on a DC 14 Charisma Saving Throw or suffer a Hallucination from the table below:
+***Mesmerizing Wings.*** A creature within the swarm must succeed on a DC 14 Charisma Saving Throw or the next attack it makes against the swarm also damages another creature inside the swarm.
 
 ***Slicing Wings.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
 
@@ -37,7 +37,7 @@ ___
 ***Smothering Gloom.*** The swarm extinguishes each source of light inside it, except for open flames or light sources created with a spell slot of third level or higher.
 
 ### Reactions
-***{{hate the light}}.*** When a creature creates a light source on its space within the swarm, the swarm may make a Slicing Wings attack against that creature.
+***Fight the Light.*** When a creature creates a light source on its space within the swarm, the swarm may make a Slicing Wings attack against that creature.
 
 
 
