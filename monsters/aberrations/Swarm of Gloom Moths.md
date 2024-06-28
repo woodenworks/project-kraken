@@ -24,20 +24,19 @@ ___
 
 ***Razorswarm.*** When a creature starts its turn inside the swarm, it suffers 1d4+2 slashing damage.
 
-***Shapes in the Dark.*** While in darkness, the swarm gains advantage on Stealth (Dexterity) checks. Any time the swarm damages a creature that is in darkness, it deals an extra 1d4 psychic damage. The area of the swarm is considered heavily obscured while it has more than half its hit points remaining. Otherwise, it is lightly obscured.
+***Night Terror.*** While in darkness, the swarm gains advantage on Stealth (Dexterity) checks. Additionally, the area occupied by the swarm is considered heavily obscured while it has more than half its hit points remaining. Otherwise, it is lightly obscured.
+
+***Shapes in the Dark.*** When the swarm damages a creature that cannot see, either due to the area being dark, heavily obscured, or if the creature is suffering the blindness condition, that creature takes 1d4 psychic damage. 
 
 ### Actions
-***Multiattack.*** The swarm makes one Slicing Wings attack for every 30 Hit Points it has (rounded up), each against a different target within its area. It also uses its {placeholder action} if available.
+***Multiattack.*** The swarm makes one Slicing Wings attack for every 30 Hit Points it has (rounded up), each against a different target within its area. It also uses its Mesmerizing Wings if available.
 
-***Mesmerizing Wings.*** A creature within the swarm must succeed on a DC 14 Charisma Saving Throw or the next attack it makes against the swarm also damages another creature inside the swarm.
+***Mesmerizing Wings. [Recharge 5-6]*** One creature within the swarm must make a DC 14 Charisma Saving Throw. On a failure, the first time it makes an attack roll before the swarm's next turn, the damage is also applied to one of its allies within the swarm.
 
-***Slicing Wings.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+***Slicing Wings.*** *Melee Weapon Attack:* +6 to hit, one target within the swarm's area. *Hit* 5 (1d6 + 2) 
 
 ### Bonus Actions
 ***Smothering Gloom.*** The swarm extinguishes each source of light inside it, except for open flames or light sources created with a spell slot of third level or higher.
 
 ### Reactions
-***Fight the Light.*** When a creature creates a light source on its space within the swarm, the swarm may make a Slicing Wings attack against that creature.
-
-
-
+***Fight the Light.*** When a creature within the swarm's area creates a light source on its space, the swarm may make a Slicing Wings attack against that creature.
