@@ -1,5 +1,3 @@
-{{Work in progress}}
-
 ## Swarm of Gloom Moths
 *Gargantuan swarm of Tiny Aberrations, typically evil*
 ___
