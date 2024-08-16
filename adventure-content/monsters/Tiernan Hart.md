@@ -1,6 +1,6 @@
 {{Work in progress}}
 
-## Tiernan
+## Tiernan Hart
 *medium Humanoid (Trykimar), chaotic evil*
 ___
 - **Armor Class**  15 (elemental armor)
