@@ -2,8 +2,8 @@
 _2nd-level enchantment_
 
 **Casting Time:** 1 action  
-**Range:** Self
-**Components:** V, S, M (a pinch of dirt from the ground you stand upon) 
+**Range:** Self  
+**Components:** V, S, M (a pinch of dirt from the ground you stand upon)  
 **Duration:** 1 hour (concentration)
 
 You form a mental and spiritual connection the land around you. When you cast this spell, select one of the following effects:
