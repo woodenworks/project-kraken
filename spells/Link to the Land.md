@@ -10,7 +10,8 @@ You form a mental and spiritual connection the land around you. When you cast th
 
 - **Pathfinding.** You intuitively know the quickest path to get to any destination within a mile of your current location.
 - **Terrain Knowledge.** You gain a sense of the geography around you. With perfect accuracy, you know the location of each hill, river, path, tree, cave, and other natural feature within one mile of your current location.
-- **Mystic Insight.** You can sense certain magic in the mile around you. You can detect the location of supernatural landmarks, such as spiritually charged monuments, places where the walls between worlds are thin, or places which are haunted. The quality of information learned when using the spell in this fashion can vary widely, and is determined by the GM.
+- **Mystic Insight.** You can sense certain magic within one mile of your current location. You can detect the location of supernatural landmarks, such as spiritually charged monuments, places where the walls between worlds are thin, or places which are haunted. The quality of information learned when using the spell in this fashion can vary widely, and is determined by the GM.
+- **Creature Sense.** You can sense every creatue within one mile of your current location. You know their location relative to you (direction and distance) as well as their size.
 
 When the spell ends, you forget the specific information gained, although you remember generalities (e.g., you recall that there is a waterfall in the vicinity, but don't know where it is.)
 
