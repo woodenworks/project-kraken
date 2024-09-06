@@ -1,5 +1,5 @@
 ## Link to the Land
-_2nd-level enchantment_
+_2nd-level divination
 
 **Casting Time:** 1 action  
 **Range:** Self  
