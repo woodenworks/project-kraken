@@ -58,17 +58,20 @@ Creature can take 3 legendary actions, choosing from the options below. Only one
 ### Lair Actions
 When Tiernan fights in the room presumed by this adventure, they gain the following lair action, which they can use on initiative count 20 (losing ties).
 
-***Activate Machine.*** Tiernan activates one of their machines within 5 feet. They cannot activate the same machine twice in a row. When they activate a machine, a mephit appears and an additional effect occurs. Tiernan is immune to the effects of these machines, although their allies are not.
+***Activate Machine.*** Tiernan activates one of their machines within 5 feet. They cannot activate the same machine twice in a row. When they activate a machine, a mephit appears and an additional effect occurs (both detailed below). Tiernan is immune to the effects of these machines, although their allies are not.
 
-A mephit with a hit point maximum of 1 appears in the nearest unoccupied space to the machine. The mephit's type is the mixture between the previously activated element and the new one. For instance, if the water machine was previously activated, when Tiernan activates the earth machine a **mud mephit** will appear.
+- A mephit with a hit point maximum of 1 appears in the nearest unoccupied space to the machine. The mephit's type is the mixture between the previously activated element and the new one. For instance, if the water machine was previously activated, when Tiernan activates the earth machine a **mud mephit** will appear.
 
-| Element 1 | Element 2 | Mephit Type |
+| Previous Element  | New Element | Mephit Type |
 |-----------|-----------|-------------|
 | Air       | Earth     | Dust        |
 | Air       | Fire      | Smoke       |
 | Air       | Water     | Ice         |
+| Earth     | Air       | Dust        |
 | Earth     | Fire      | Magma       |
 | Earth     | Water     | Mud         |
+| Fire      | Air       | Smoke       |
+| Fire      | Earth     | Magma       |
 | Fire      | Water     | Steam       |
 
 - An additional effect occurs based on which machine is activated:
