@@ -14,4 +14,4 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 
 ***Using a Higher-Level Spell Slot.*** Roll an additional 2d8 for each spell slot level above 1.
 
-_Note: This spell was presented in the 2014 version of fifth-edition as "Sleep." However, with the 2024 updates to those rules, the _sleep_ spell was entirely overhauled. We opted to present this familiar spell with a new name, for your reference, as it is integral to the Dreamwalker class._
+_Note: This spell was presented in the 2014 rules as "sleep." However, with the 2024 update to fifth-edition, the _sleep_ spell was entirely overhauled. We opted to present this familiar spell with a new name, for your reference, as it is integral to the Dreamwalker class._
