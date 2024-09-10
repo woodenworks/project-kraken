@@ -1,5 +1,5 @@
 ## Boulder Toss
-_2st-level evocation
+_2st-level evocation_
 
 **Casting Time:** 1 action  
 **Range:** 20 feet  
