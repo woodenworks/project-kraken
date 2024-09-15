@@ -5,14 +5,16 @@ ___
 - **HP** 26 (4d8 + 8)
 - **Speed** based on race, or 30 feet
 ___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|9 (-1)|15 (+2)|14 (+2)|16 (+3)|13 (+1)|10 (+0)|
+|     |    | MOD | SAVE |   |     |    | MOD | SAVE |   |     |    | MOD | SAVE |
+|-----|----|-----|------|---|-----|----|-----|------|---|-----|----|-----|------|
+| STR | xx | +x  | +x   |   | DEX | xx | +x  | +x   |   | CON | xx | +x  | +x   |
+| INT | xx | +x  | +x   |   | WIS | xx | +x  | +x   |   | CHA | xx | +x  | +x   |
 ___
 - **Skills** Deception +2, Medicine +3
 - **Senses** darkvision 60 ft., passive Perception 11
-- **Challenge** — (PB +x)
+- **Challenge** — (PB +6)
 ___
+### Traits
 ***Nocturnal Eye Drops.*** The alchemist has darkvision, even if it is not granted by its race.
 
 ### Actions
