@@ -11,7 +11,7 @@ ___
 | INT | 10 | +0  | +0   |   | WIS | 20 | +5  | +11   |   | CHA | 12 | +1  | +1   |
 ___
 - **Skills** Medicine +11
-- **Senses** darkvision 60 ft., passive Perception 11
+- **Senses** darkvision 60 ft., passive Perception 15
 - **Challenge** — (PB +6)
 ___
 ### Traits
