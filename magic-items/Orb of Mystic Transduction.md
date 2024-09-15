@@ -1,4 +1,4 @@
-## Orb of Mystic Tranduction
+## Orb of Mystic Transduction
 *Wondrous item, rarity varies*
 
 Looking into this orb, it is impossible to see to the other side. The glass warps, reflects, and refracts, seemingly forever.
