@@ -1,30 +1,34 @@
 ## Vital Spirit
 *Undead (the race of your ancestor)*
 ___
-- **AC** 13   ::   **Initiative** +x (x)
-- **HP** 26 (4d8 + 8)
-- **Speed** based on race, or 30 feet
+- **AC** 16   ::   **Initiative** +1 (11)
+- **HP** your Cleric level × 4
+- **Speed** 30 feet
 ___
 |     |    | MOD | SAVE |   |     |    | MOD | SAVE |   |     |    | MOD | SAVE |
 |-----|----|-----|------|---|-----|----|-----|------|---|-----|----|-----|------|
-| STR | xx | +x  | +x   |   | DEX | xx | +x  | +x   |   | CON | xx | +x  | +x   |
-| INT | xx | +x  | +x   |   | WIS | xx | +x  | +x   |   | CHA | xx | +x  | +x   |
+| STR | 10 | +0  | +0   |   | DEX | 12 | +1  | +1   |   | CON | 10 | +0  | +6   |
+| INT | 10 | +0  | +0   |   | WIS | 20 | +5  | +11   |   | CHA | 12 | +1  | +1   |
 ___
-- **Skills** Deception +2, Medicine +3
+- **Skills** Medicine +11
 - **Senses** darkvision 60 ft., passive Perception 11
 - **Challenge** — (PB +6)
 ___
 ### Traits
-***Nocturnal Eye Drops.*** The alchemist has darkvision, even if it is not granted by its race.
+***Turn Exclusion.*** The Spirit will not be affected when a friendly creature uses a feature to turn undead.
+
+***Laid to Rest.*** The Spirit has manifested temporarily. It cannot regain any lost Hit Points, and no effect can force it to remain when its time expires.
 
 ### Actions
-***Fire Flask.*** _Ranged Weapon Attack:_ +4 to hit, range 20/60., one target. _Hit:_ 7 (1d6 + 4) fire damage. Additionally, all creatures within 5 feet of the target must succeed on a DC 14 Dexterity saving throw or take 3 (1d6) fire damage.
+**Reverse Healing** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10 ft. *Hit* 8 (1d6 + 5) Necrotic damage.
 
-***Smoking Flask (1/Day).*** The Bandit Alchemist throws a flask at a solid surface or object within 30 feet. It releases a 10-foot-radius sphere of smoke centered on the point of impact. The smoke spreads around corners, and its area is heavily obscured for 30 seconds or until dispersed by wind, such as the _gust_ spell.
+***Healing Hands (Recharge 5–6).*** The Spirit heals a creature it can touch for 3d12 damage.
 
-***Flask of Laughs (2/Day).*** The Bandit Alchemist throws a flask at a solid surface or object within 30 feet. Each creature within 10 feet of the point of impact must make a DC 15 Constitution saving throw. On a failure, the creature is overcome with giggles; it has disadvantage on all attack rolls and saving throws made until the end of its next turn and cannot cast spells that require a verbal component.
+***On Your Feet.*** The Spirit targets a creature with 0 Hit Points that it can see within 30 feet. That creature regains 10 Hit Points.
 
-### Bonus Actions
-***Minor Healing Potion (2/Day).*** The Alchemist drinks a potion which restores 7 (2d4+2) hit points.
+***Spellcasting.*** The Spirit casts one of the following spells, requiring no material components and using your spellcasting modifier and Spell Save DC:<br>
+- At will: _lesser restoration, cure wounds_<br>
+- 1/day each: _greater restoration, protection from evil and good_
 
-***Pyro Gel (3/day).*** The Alchemist tosses a flask of gel to a willing creature within 10 feet. That creature may use its reaction to apply the gel to one melee weapon. For the next minute, all attacks made with that weapon deal an additional 2 (1d4) fire damage.
+### Reactions
+***Burden of Care.*** When a creature within 30 feet takes damage, it takes half damage and the Spirit takes an equivalent amount of damage.
