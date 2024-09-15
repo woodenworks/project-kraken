@@ -12,7 +12,7 @@ ___
 ___
 - **Skills** Deception +2, Medicine +3
 - **Resistances** Resistance
-- **Immunities** Immune
+- **Immunities** Damage Type A, Damage Type B; Condition A
 - **Senses** Darkvision 60 ft., Passive Perception 11
 - **Languages** Imperial
 - **CR** 1 (XP 100; PB +x)
