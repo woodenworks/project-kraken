@@ -1,28 +1,23 @@
-## Djinni of the Footlocker
-*Small guy, unoriginal neutral*
+## Monster Name
+*Size Type (Subtype), Alignment Alignment*
 ___
-- **Armor Class**  15 (chain mail, shield)
-- **Hit Points**   79(1d4 + 5)
-- **Speed**        19 ft.
+- **AC** xx   ::   **Initiative** +x (x)
+- **HP** xx (xdx + x)
+- **Speed** xx ft., Fly xx ft.
 ___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|18 (+4)|5 (-2)|6 (-2)|2 (-4)|20 (+5)|4 (-3)|
+|     |    | MOD | SAVE |   |     |    | MOD | SAVE |   |     |    | MOD | SAVE |
+|-----|----|-----|------|---|-----|----|-----|------|---|-----|----|-----|------|
+| STR | xx | +x  | +x   |   | DEX | xx | +x  | +x   |   | CON | xx | +x  | +x   |
+| INT | xx | +x  | +x   |   | WIS | xx | +x  | +x   |   | CHA | xx | +x  | +x   |
 ___
-- **Condition Immunities**  swagged, groggy, melancholy
-- **Senses**                darkvision 60 ft., passive Perception 16
-- **Languages**             Pottymouth, Gibberish
-- **Challenge**             11 (8645 XP)	::	**Proficiency Bonus**  +8
+- **Skills** Deception +2, Medicine +3
+- **Resistances** Resistance
+- **Senses** Darkvision 60 ft., Passive Perception 11
+- **Languages** Imperial
+- **CR** 1 (XP 100; PB +x)
 ___
-***Enormous Nose.*** This creature gains advantage on any check involving putting things in its nose.
-
-***Pack Tactics.*** These guys work together like peanut butter and jelly.
-
-***Fowl Appearance.*** While the creature remains motionless, it is indistinguishable from a normal chicken.
-
-***Hangriness.*** This creature is angry, and hungry. It will refuse to do anything with you until its hunger is satisfied. 
-	When in visual contact with this creature, you must purchase an extra order of fries, even if they say they aren't hungry.
-
+### Traits
+***Trait 1.*** Lorem ipsum.
 
 ### Actions
 ***Elbow Hold.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
