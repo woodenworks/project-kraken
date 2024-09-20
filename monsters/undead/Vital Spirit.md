@@ -22,13 +22,14 @@ ___
 ### Actions
 **Reverse Healing** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10 ft. *Hit* 8 (1d6 + 5) Necrotic damage.
 
-***Healing Hands (Recharge 5–6).*** The Spirit heals a creature it can touch for 3d12 damage.
+***Healing Hands (3/day).*** The Spirit heals a creature it can touch for 3d12 damage.
 
 ***On Your Feet.*** The Spirit targets a creature with 0 Hit Points that it can see within 30 feet. That creature regains 10 Hit Points.
 
-***Spellcasting.*** The Spirit casts one of the following spells, requiring no material components and using your spellcasting modifier and Spell Save DC:<br>
-- At will: _lesser restoration, cure wounds_<br>
-- 1/day each: _greater restoration, protection from evil and good_
+***Spellcasting.*** The Spirit casts one of the following spells, requiring no material components and using your spellcasting modifier and spell save DC:<br>
+- At will: _Lesser Restoration_
+- 3/day: _Cure Wounds_
+- 1/day each: _Greater Restoration, Protection From Evil and Good_
 
 ### Reactions
 ***Burden of Care.*** When a creature within 30 feet takes damage, it takes half damage and the Spirit takes an equivalent amount of damage.
