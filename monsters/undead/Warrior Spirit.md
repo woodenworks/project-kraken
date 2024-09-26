@@ -23,9 +23,9 @@ ___
 ### Actions
 ***Multiattack.*** The Spirit uses Magnetic Pull (if available), then makes 2 Greatsword attacks or uses Righteous Punishment.
 
-***Greatsword*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit* 8 (2d6 + 5) Force damage. Until the start of the spirit's next turn, the target has disadvantage on any attack roll that isn’t against the spirit, and when the target hits a creature other than the spirit with an attack, that creature has resistance to the damage dealt by the attack. A creature immune to being Charmed is not affected by this trait.
+***Greatsword.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit* 8 (2d6 + 5) Force damage. Until the start of the spirit's next turn, the target has disadvantage on any attack roll that isn’t against the spirit, and when the target hits a creature other than the spirit with an attack, that creature has resistance to the damage dealt by the attack. A creature immune to being Charmed is not affected by this trait.
 
-***Righteous Punishment*** *Constitution Saving Throw:* DC equals your spell save DC, each creature within 10 feet of the Spirit. _Failure:_ The target takes 4d6 thunder damage and is deafened until the start of its next turn.
+***Righteous Punishment.*** *Constitution Saving Throw:* DC equals your spell save DC, each creature within 10 feet of the Spirit. _Failure:_ The target takes 4d6 thunder damage and is deafened until the start of its next turn.
 
 ***Magnetic Pull (Recharge 5–6).*** The Spirit emits a burst of magnetism with a radius of 30 feet. Any creature wearing metal armor must succeed on a Strength or Dexterity saving throw, and is pulled up to 30 feet in a straight line toward the Spirit on a failure. Any creature holding a metal item must succeed on a Strength or Dexterity saving throw (made with advantage, if it is an attuned magical item); on a failure, the creature loses hold of the item, which is pulled up to 30 feet in a straight line toward the Spirit.
 
