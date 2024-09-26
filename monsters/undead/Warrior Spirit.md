@@ -20,8 +20,10 @@ ___
 
 ***Laid to Rest.*** The Spirit has manifested temporarily. It cannot regain any lost Hit Points, and no effect can force it to remain when its time expires.
 
+***Ancestral Guardian.*** The spirit can dominate the field of battle. Whenever the spirit damages a creature, the target must focus its attention on the spirit. Until the start of the spirit's next turn, the target has disadvantage on any attack roll that isn’t against the spirit, and when the target hits a creature other than the spirit with an attack, that creature has resistance to the damage dealt by the attack. This can only apply to one creature at a time, whichever creature was most recently affected. A creature immune to being Charmed is not affected by this trait.
+
 ### Actions
-***Multiattack.*** The Spirit makes 4 Greatsword attacks. It can replace 1 of them with Magnetic Pull (if available), and can replace 1 of them with Righteous Crash.
+***Multiattack.*** The Spirit uses Magnetic Pull (if available), then makes 2 Greatsword attacks or uses Righteous Punishment.
 
 ***Greatsword*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit* 8 (2d6 + 5) Force damage.
 
