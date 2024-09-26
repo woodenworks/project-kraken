@@ -1,5 +1,5 @@
 ## Centaur Ladder Harness
-*Wondrous item, common*
+*Wondrous item, common (aethertech)*
 
 A Centaur can use this harness to travel up and down ladders, even if this involves going through a space that would otherwise be too small for the Centaur.
 
