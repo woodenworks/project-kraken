@@ -7,4 +7,4 @@ This item has 6 charges. Once per turn, when you hit with an Unarmed Strike, you
 
 The item regains 1d6 charges at dusk.
 
-**_Curse._** If this item is worn for more than 3 hours without being used, the wielder's fists begin to itch and ache. The wielder has disadvantage on ability checks until either removing the wraps or dealing damage with an Unarmed Strike.
+**_Curse._** If this item is worn for more than 3 hours without being used, the wielder's fists begin to itch and ache. The wielder cannot benefit from resting and has disadvantage on ability checks until either removing the wraps or dealing damage with an Unarmed Strike.
