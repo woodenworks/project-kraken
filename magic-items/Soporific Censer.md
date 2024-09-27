@@ -3,4 +3,4 @@
 
 Intoxicating scents waft from this small, brass vessel.
 
-While you are holding this censer, you gain bonus to your Dreamwalker save DC. The bonus is determined by the censer's rarity.
+While you are holding this censer, you gain a bonus to your Dreamwalker save DC. The bonus is determined by the censer's rarity.
