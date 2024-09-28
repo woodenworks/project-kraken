@@ -13,7 +13,7 @@ ___
 | WIS | 20 | 5   | 13   |
 | CHA | 26 | 8   | 16   |
 ___
-- **Initiative** +2
+- **Initiative** +10
 - **Speed** 50 ft., fly 100 ft. (hover), swim 50 ft.
 - **Skills** Arcana +13, History +13, Insight +13, Perception +13
 - **Resistances** Acid, Cold, Fire; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
