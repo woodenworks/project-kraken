@@ -41,7 +41,7 @@ Additionally, he can now use the options in the “Mythic Actions” section for
 
 ***Greatsword.*** _Melee Weapon Attack:_ +17 to hit, reach 15 ft. _Hit:_ 23 (4d6 + 9) force damage plus 21 (6d6) lightning damage. If the target is a flammable object that is not being held or worn, it catches fire.
 
-***Tail.*** _Melee Weapon Attack:_ +17 to hit, reach 15 ft., one target. _Hit:_ 25 (3d10 + 9) bludgeoning damage. If the target is a creature, it must succeed on a DC 24 Constitution saving throw or be stunned until the end of its next turn.
+***Tail.*** _Melee Weapon Attack:_ +17 to hit, reach 15 ft. _Hit:_ 25 (3d10 + 9) bludgeoning damage. If the target is a creature, it must succeed on a DC 24 Constitution saving throw or be Stunned until the end of its next turn.
 
 ***Lightning Breath (Recharge 5–6).*** _Dexterity Saving Throw:_ DC 24, a 120–foot line that is 10 feet wide.  Flammable objects in this path that are not being held or worn catch fire. _Failure:_ 93 (17d10) Lightning damage. _Success:_ Half damage.
 
