@@ -1,19 +1,26 @@
 ## Mouthling
-*Tiny Aberration, neutral*
+*Tiny Aberration, Neutral*
 ___
-- **Armor Class**  13
-- **Hit Points**   10 (3d4 + 3)
-- **Speed**        20 ft., climb 20 ft., burrow 80 ft. (while on Aberrant Ground)
+- **Armor Class** 13
+- **Hit Points** 10 | 6–15 | 3d4 + 3
 ___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|6 (-2)|14 (+2)|13 (+1)|3 (-4)|9 (-1)|5 (-3)|
+|     |    | Mod | Save |
+|-----|----|-----|------|
+| STR | 6  | -2  | -2   |
+| DEX | 14 | +2  | +2   |
+| CON | 13 | +1  | +1   |
+| INT | 3  | -4  | -4   |
+| WIS | 9  | -1  | -1   |
+| CHA | 5  | -3  | -3   |
 ___
-- **Condition Immunities**  prone
-- **Senses**                darkvision 60 ft., passive Perception 9
-- **Languages**             --
-- **Challenge**             1/4 (50 XP)	::	**Proficiency Bonus**  +2
+- **Initiative** +2 (12)
+- **Speed** 20 ft., climb 20 ft., burrow 80 ft. (while on Aberrant Ground)
+- **Senses** Darkvision 60 ft., Passive Perception 9
+- **Languages** --
+- **CR** 1/4 (XP 50; PB +2)
 ___
+
+### Traits
 
 ***Arterial Transport.*** The Mouthling has a burrow speed of 80 feet, which can only be used on contiguous areas of Aberrant Ground.
 
