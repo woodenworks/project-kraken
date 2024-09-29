@@ -1,22 +1,28 @@
 ## Monster Name
 *Size Type (Subtype), Alignment Alignment*
 ___
-- **AC** xx   ::   **Initiative** +x (x)
-- **HP** xx (xdx + x)
+- **Armor Class** xx
+- **Hit Points** x | min–max | xdx + x
+___
+|     |    | Mod | Save |
+|-----|----|-----|------|
+| STR | xx | +x  | +x   |
+| DEX | xx | +x  | +x   |
+| CON | xx | +x  | +x   |
+| INT | xx | +x  | +x   |
+| WIS | xx | +x  | +x   |
+| CHA | xx | +x  | +x   |
+___
+- **Initiative** +x (x)
 - **Speed** xx ft., Fly xx ft.
-___
-|     |    | MOD | SAVE |   |     |    | MOD | SAVE |   |     |    | MOD | SAVE |
-|-----|----|-----|------|---|-----|----|-----|------|---|-----|----|-----|------|
-| STR | xx | +x  | +x   |   | DEX | xx | +x  | +x   |   | CON | xx | +x  | +x   |
-| INT | xx | +x  | +x   |   | WIS | xx | +x  | +x   |   | CHA | xx | +x  | +x   |
-___
-- **Skills** Deception +2, Medicine +3
+- **Skills** Arcana +13, History +13, Insight +13, Perception +13
 - **Resistances** Resistance
 - **Immunities** Damage Type A, Damage Type B; Condition A
-- **Senses** Darkvision 60 ft., Passive Perception 11
+- **Senses** Darkvision 60 ft., Passive Perception xx
 - **Languages** Imperial
-- **CR** 1 (XP 100; PB +x)
+- **CR** x (XP xxx; PB +x)
 ___
+
 ### Traits
 ***Trait 1.*** Lorem ipsum.
 
