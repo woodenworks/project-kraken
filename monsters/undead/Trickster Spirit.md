@@ -19,7 +19,6 @@ ___
 - **Resistances** Resistance
 - **Immunities** Damage Type A, Damage Type B; Condition A
 - **Senses** Darkvision 60 ft. (PP 17)
-- **Languages** Imperial
 - **CR** — (PB +6)
 ___
 
