@@ -17,7 +17,6 @@ ___
 - **Speed** 30 ft.
 - **Skills** Athletics +11
 - **Resistances** Bludgeoning, Piercing, and Slashing
-- **Immunities** Damage Type A, Damage Type B; Condition A
 - **Senses** Darkvision 60 ft. (PP 12)
 - **Challenge** — (PB +6)
 ___
