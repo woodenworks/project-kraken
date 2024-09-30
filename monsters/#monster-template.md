@@ -1,8 +1,8 @@
 ## Monster Name
 *Size Type (Subtype), Alignment Alignment*
 ___
-- **Armor Class** xx
-- **Hit Points** x | min–max | xdx + x
+- **AC** xx
+- **HP** x | min–max | xdx + x
 ___
 |     |    | Mod | Save |
 |-----|----|-----|------|
@@ -18,7 +18,7 @@ ___
 - **Skills** Arcana +13, History +13, Insight +13, Perception +13
 - **Resistances** Resistance
 - **Immunities** Damage Type A, Damage Type B; Condition A
-- **Senses** Darkvision 60 ft., Passive Perception xx
+- **Senses** Darkvision 60 ft. (PP xx)
 - **Languages** Imperial
 - **CR** x (XP xxx; PB +x)
 ___
