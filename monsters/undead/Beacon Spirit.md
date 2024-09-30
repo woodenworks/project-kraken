@@ -1,20 +1,27 @@
 ## Beacon Spirit
 *Undead (the race of your ancestor)*
 ___
-- **AC** 16   ::   **Initiative** +0 (10)
+- **AC** 16
 - **HP** your Cleric level × 5
-- **Speed** 30 feet
 ___
-|     |    | MOD | SAVE |   |     |    | MOD | SAVE |   |     |    | MOD | SAVE |
-|-----|----|-----|------|---|-----|----|-----|------|---|-----|----|-----|------|
-| STR | 17 | +0  | +0   |   | DEX | 10 | +1  | +1   |   | CON | 10 | +0  | +6   |
-| INT | 10 | +0  | +0   |   | WIS | 20 | +5  | +11   |   | CHA | 12 | +1  | +1   |
+|     |    | Mod | Save |
+|-----|----|-----|------|
+| STR | 17 | +0  | +0   |
+| DEX | 10 | +1  | +1   |
+| CON | 10 | +0  | +6   |
+| INT | 10 | +0  | +0   |
+| WIS | 20 | +5  | +11  |
+| CHA | 12 | +1  | +1   |
 ___
+- **Initiative** +0 (10)
+- **Speed** 30 ft.
 - **Skills** Insight +11
-- **Senses** darkvision 60 ft., passive Perception 15
-- **Challenge** — (PB +6)
+- **Senses** Darkvision 60 ft. (PP 15)
+- **CR** — (PB +6)
 ___
+
 ### Traits
+
 ***Turn Exclusion.*** The Spirit will not be affected when an ally uses a feature to turn Undead.
 
 ***Daylight.*** The Spirit permanently emits light, as if by the spell _Daylight_.
@@ -32,7 +39,7 @@ ___
 
 ***Purge Illusion (Recharge 5–6).*** The Spirit emits a pulse in a radius of 30 feet. Any illusion in range created by spell of 3rd level or below is dispelled, as well as other illusory effects that the GM rules were created by another method with a similar power level. Invisible creatures in range must make a Wisdom saving throw against your Spell Save DC, becoming visible on a failure.
 
-***Spellcasting.*** The Spirit casts one of the following spells, requiring no material components and using your spellcasting modifier and Spell Save DC:<br>
-- At will: _Dancing Lights (does not require concentration)_
-- 3/day each: _Fireball, Scorching Ray_ 
+***Spellcasting.*** The Spirit casts one of the following spells, requiring no material components and using your spellcasting modifier and Spell Save DC:
+- At will: _Dancing Lights_ (does not require concentration)
+- 3/day each: _Fireball, Scorching Ray_
 - 1/day each: _Flame Strike, Protection From Energy_
