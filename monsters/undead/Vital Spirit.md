@@ -17,7 +17,7 @@ ___
 - **Speed** 30 ft.
 - **Skills** Medicine +11
 - **Senses** Darkvision 60 ft. (PP 15)
-- **Challenge** — (PB +6)
+- **CR** — (PB +6)
 ___
 
 ### Traits
