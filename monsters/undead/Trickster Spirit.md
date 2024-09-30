@@ -1,20 +1,30 @@
 ## Trickster Spirit
 *Undead (the race of your ancestor)*
 ___
-- **AC** 16   ::   **Initiative** +11 (21)
+- **AC** 16
 - **HP** your Cleric level × 3
-- **Speed** 0 feet (see Flickering Strike trait)
 ___
-|     |    | MOD | SAVE |   |     |    | MOD | SAVE |   |     |    | MOD | SAVE |
-|-----|----|-----|------|---|-----|----|-----|------|---|-----|----|-----|------|
-| STR | 11 | +0  | +0   |   | DEX | 20 | +5  | +11  |   | CON | 10 | +0  | +0   |
-| INT | 12 | +1  | +7   |   | WIS | 12 | +1  | +1   |   | CHA | 16 | +3  | +3   |
+|     |    | Mod | Save |
+|-----|----|-----|------|
+| STR | 11 | +0  | +0   |
+| DEX | 20 | +5  | +11  |
+| CON | 10 | +0  | +0   |
+| INT | 12 | +1  | +7   |
+| WIS | 12 | +1  | +1   |
+| CHA | 16 | +3  | +3   |
 ___
+- **Initiative** +11 (21)
+- **Speed** 0 ft. (see Flickering Strike trait)
 - **Skills** Perception +7, Stealth +17
-- **Senses** darkvision 60 ft., passive Perception 17
-- **Challenge** — (PB +6)
+- **Resistances** Resistance
+- **Immunities** Damage Type A, Damage Type B; Condition A
+- **Senses** Darkvision 60 ft. (PP 17)
+- **Languages** Imperial
+- **CR** — (PB +6)
 ___
+
 ### Traits
+
 ***Turn Exclusion.*** The Spirit will not be affected when a friendly creature uses a feature to turn Undead.
 
 ***Liquid Shadows.*** The Spirit is Heavily Obscured. All attacks against the Spirit are made with Disadvantage.
