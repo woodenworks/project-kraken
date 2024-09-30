@@ -18,7 +18,7 @@ ___
 - **Skills** Athletics +11
 - **Resistances** Bludgeoning, Piercing, and Slashing
 - **Senses** Darkvision 60 ft. (PP 12)
-- **Challenge** — (PB +6)
+- **CR** — (PB +6)
 ___
 
 ### Traits
