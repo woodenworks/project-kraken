@@ -1,4 +1,4 @@
-## Wand of Chaotic Hunger
+## Rod of Chaotic Hunger
 
 _Rod, very rare (requires attunement by a Warlock)_
 
