@@ -2,4 +2,8 @@
 
 _Rod, very rare (requires attunement by a Warlock)_
 
-Lorem
+When you cast _Eldritch Blast_ while attuned to this rod, roll 2d6. In addition to the normal results of your _Eldritch Blast_, one of the following happens:
+- If one of the d6’s lands on a 1, you take an amount of Psychic damage equal to the result of the roll.
+- If _both_ d6’s land on 1, you immediately cast _Circle of Death_, centered on yourself, without requiring material components or expending a spell slot. You have Resistance to its damage, unless you already have Immunity from another source.
+- If both d6’s land on 6, you regain one expended Pact Magic spell slot.
+- Otherwise, each creature targeted by your _Eldritch Blast_ takes an amount of Psychic damage equal to the result of the roll.
