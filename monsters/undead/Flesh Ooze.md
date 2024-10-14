@@ -27,9 +27,7 @@ ___
 
 ***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.
 
-***Noxious Nature.*** Whenever the ooze takes damage, it emits a sickening smell. _Constitution Saving Throw:_ DC 12, creatures within 5 feet. _Failure:_ The creature takes 1d4 Poison damage and gains the Poisoned Condition.
-
-***Noxious Nature.*** Whenever the ooze takes damage, all creatures within 5 feet must make a DC 12 Constitution saving throw, taking 1d4 poison damage and becoming poisoned on a failure.
+***Noxious Nature.*** Whenever the ooze takes damage, it emits a sickening smell. _Constitution Saving Throw:_ DC 12, creatures within 5 feet. _Failure:_ The creature takes 1d4 Poison damage and gains the Poisoned condition until the end of its next turn.
 
 ***False Appearance.*** While the ooze remains motionless, it is indistinguishable from a pile of viscera.
 
