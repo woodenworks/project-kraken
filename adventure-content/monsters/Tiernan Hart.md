@@ -18,33 +18,51 @@ ___
 - **CR** — (PB +4)
 
 - **Initiative** +1 (11)
-- **Speed** 30 ft.
+- **Speed** 30 ft., Swim 30 ft. _[Water Form]_
 - **Skills** Arcana +13
+- **Resistances** Bludgeoning, Piercing, and Slashing _[Earth Form]_
+- **Immunities** Cold _[Water Form]_, Fire _[Fire Form]_, Lightning _[Air Form]_; Charmed
+- **Senses** Darkvision 60 ft. _[Earth Form]_ (PP 15)
 - **Languages** Imperial, Island Creole, Plainspeak, Gnomish, Elvish
 - **CR** x (XP xxx; PB +x)
 ___
 
 ### Traits
 
-***Elemental Forms.*** As a Trykimar, Tiernan has four elemental forms which are supercharged by the elemental machines Tiernan is using. Each form has different traits and abilities.
+***Elemental Forms.*** As a Trykimar, Tiernan has four elemental forms which are supercharged by the elemental machines Tiernan is using. Each form provides special immunities, traits, and abilities. 
 
-***Spellcaster.*** Regardless of elemental form, Tiernan is a 14th-level spellcaster with the following spells prepared:
-***Spellcasting.*** The {{monster}} casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):
+***Stormy Disposition [Air Form].*** Tiernan has advantage on saving throws against spells such as gust which use air to move them. When they succeed on these saving throws, they can choose whether to allow the spell to resolve normally or for the wind to carry them twice as far as it normally would.
+
+***Solid Footing [Earth Form].*** You have advantage on saving throws against eﬀects caused by tremors in the earth, such as from the _earthquake_ spell.
+
+
+### Actions
+
+Regardless of their elemental form, Tiernan can do the following:
+
+***Multiattack.*** Tiernan makes three Arcane Burst attacks. They can replace one Arcane Burst with the attack provided by their current form.
+
+***Arcane Burst.*** _Melee or Ranged Spell Attack._ +9 to hit, reach 5 ft. or range 120 ft. _Hit:_ 21 (3d10 + 5) Force damage.
+
+***Electric Gust [Air Form Only].*** *Dexterity Saving Throw:* DC 20, all creatures in a line 5-ft wide and 30-ft long. *Failure* 13 (3d8) Lightning damage and pushed 15 feet away following the line. *Failure:* Half damage.
+
+***Shocking Grasp [Earth Form Only].*** *Melee Attack Roll:* +9 to hit, reach 5ft. *Hit* 5 (3d8) lightning damage. *Effect:* The target can't make Opportunity Attacks until the start of its next turn.
+
+***Shocking Grasp [Fire Form Only].*** *Melee Attack Roll:* +9 to hit, reach 5ft. *Hit* 5 (3d8) lightning damage. *Effect:* The target can't make Opportunity Attacks until the start of its next turn.
+
+***Shocking Grasp [Water Form Only].*** *Melee Attack Roll:* +9 to hit, reach 5ft. *Hit* 5 (3d8) lightning damage. *Effect:* The target can't make Opportunity Attacks until the start of its next turn.
+
+
+***Spellcasting.*** Tiernan casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 20):
 - At will: _detect evil and good, invisibility_ (self only)
 - 3/day each: _blade barrier, dispel evil and good, flame strike, raise dead_
 - 1/day each: _commune, control weather, insect plague_
 
 ---
 
-## Tiernan: Air Form
-- **Immunities** Lightning; Charmed
-- **Senses** – (PP 15)
-
 ### Air Form: Traits
-***Stormy Disposition.*** Tiernan has advantage on saving throws against spells such as gust which use air to move them. When they succeed on these saving throws, they can choose whether to allow the spell to resolve normally or for the wind to carry them twice as far as it normally would.
 
 ### Air Form: Actions
-***Shocking Grasp.*** *Melee Attack Roll:* +9 to hit, reach 5ft. *Hit* 5 (3d8) lightning damage. *Spell Effect:* The target can't make Opportunity Attacks until the start of its next turn.
 
 
 
