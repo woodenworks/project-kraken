@@ -24,7 +24,7 @@ ___
 
 ***Arcane Matrix (1/day).*** If Velandrach is not targeted by an attack or forced to make a saving throw for 2 full rounds, he gains a 30-point arcane shield. This barrier grants him +2 AC and absorbs damage until depleted.
 
-***Master of Glyphs.*** As part of his action or multiattack, Velandrach can embed a glyph of force into an unoccupied 5-foot cube within 60 feet. A glyph is triggered when a creature other than Velandrach enters its space or ends its turn there. The triggering creature must succeed on a DC 16 Dexterity saving throw or take 13 (3d10) force damage. Velandrach can maintain up to three glyphs at a time. Triggered glyphs vanish.
+***Master of Glyphs.*** Velandrach can embed a glyph of force into an unoccupied 5-foot cube within 60 feet. Velandrach can maintain up to three glyphs at a time. A glyph is triggered when a creature other than Velandrach enters its space or ends its turn there. _Dexterity Saving Throw:_ DC 16. _Failure:_ 13 (3d10) Force damage. The Glyph vanishes once triggered.
 
 ***Dreamsteel Flesh.*** Velandrach has resistance to Force and Psychic damage.
 
