@@ -66,10 +66,10 @@ Mateo can take 1 legendary action, choosing from the options below. Only one leg
 ***Illusory Army.*** Mateo summons three **Phantasmal Soldiers** to points he can see within 30 feet.
 
 ***Stagebound Reflections.*** Mateo summons three illusionary duplicates in unoccupied spaces he can see within 60 feet. 
-- Each duplicates is indistinguishable from Mateo
-- On Mateo's turn, each duplicate moves up to 30 feet
+- Each duplicate is indistinguishable from Mateo
+- On Mateo's turn, each duplicate can move up to 30 feet
 - Each duplicate has **AC 14** and **1 hit point**
-- Duplicates vanish if dispelled, by *dispel magic* or similar, or when Mateo uses this trait again or dies.
+– Duplicates vanish if they are dispelled, destroyed, or when Mateo uses this trait again or dies
 
 ---
 
