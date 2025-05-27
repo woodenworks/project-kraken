@@ -1,7 +1,7 @@
 ## Mateo, the Bastard Prince  
 *Humanoid (Human), Chaotic Evil*  
 ___  
-- **AC** 16 (Illusory Shroud)  
+- **AC** 16 
 - **HP** 120  
 ___  
 |     |    | Mod | Save |
@@ -23,8 +23,6 @@ ___
 ### Traits
 
 ***Illusory Shroud.*** Mateo is always under the effects of *mirror image*. If he casts it again, all three duplicates are restored, regardless of how many remain.
-
-***Grand Deceiver.*** Ranged attacks against Mateo are made with disadvantage while at least one of his duplicates from *mirror image* remains.
 
 ***Contingent Lies.*** The first time each round that Mateo fails a saving throw, he instead succeeds. This effect recharges at the end of his next turn.
 
@@ -49,7 +47,7 @@ ___
 
 ### Bonus Actions
 
-***Tactical Swap.*** Mateo switches places with one of his illusions (including illusory duplicates or Phantasmal Soldiers). He must be able to see the target.
+***Tactical Swap.*** Mateo switches places with one of his illusions that he can see (including spectral echo, illusory duplicates, or Phantasmal Soldiers).
 
 ***Compelling Presence.*** _Charisma Saving Throw:_ DC 18, one creature Mateo can see within 30 feet. *Failure:* The creature is charmed until the end of Mateo’s next turn. *Success:* The creature is immune to this ability for 24 hours.
 
