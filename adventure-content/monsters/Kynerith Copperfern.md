@@ -1,5 +1,5 @@
 ## Kynerith, the Nihilist Scholar  
-*Humanoid (Gnome), Neutral Evil*  
+*Humanoid (Gnome), Chaotic Evil*  
 ___  
 - **AC** 15 (Pale Ward)  
 - **HP** 110 + 55 Temp HP
@@ -32,24 +32,20 @@ ___
 
 ### Actions
 
-***Multiattack.*** Kynerith uses *Suppress Hope* and makes a *Mind Spike* attack.
-
-***Suppress Hope.*** A creature of Kynerith’s choice within 60 feet cannot regain hit points until the start of her next turn.
-
-***Eldritch Blast.*** *Ranged Spell Attack:* +8 to hit, range 120 ft., three targets. *Hit:* 10 (1d10 + 5) Force damage per beam.
-
-***Chorus of Despair (Recharge 5–6).*** Psychic static radiates from Kynerith. _Wisdom Saving Throw:_ DC 16, each creature in a 30-foot cone emenation. _Failure:_ 18 (4d8) Psychic damage and frightened until the end of its next turn. _Success:_ Half damage and is not frightened.
+***Eldritch Blast.*** *Ranged Spell Attack:* +8 to hit, range 120 ft., three targets. *Hit:* 10 (1d10 + 4) Force damage per beam.
 
 ***Mind Spike.*** *Ranged Spell Attack:* +9 to hit, range 120 ft., one target. *Hit:* 14 (3d8) psychic damage. If the target is frightened or cursed, it takes an additional 7 (2d6) psychic damage.
 
-***Spellcasting (4/Short Rest).*** Kynerith casts one of the following spells at 5th-level, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 17):
+***Chorus of Despair (Recharge 5–6).*** Psychic static radiates from Kynerith. _Wisdom Saving Throw:_ DC 16, each creature in a 20-foot emanation. _Failure:_ 18 (4d8) Psychic damage and frightened until the end of its next turn. _Success:_ Half damage and is not frightened.
+
+***Spellcasting (4/Short Rest).*** Kynerith casts one of the following spells at 5th-level, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
 - *synaptic static*, *phantasmal killer*, *counterspell*, *mislead*, *dominate person*
 
 ---
 
 ### Bonus Actions
 
-***Lingering Echo.*** Kynerith creates a psychic residue in a 10-ft. radius centered on her current space. The area becomes difficult terrain for enemies until the start of her next turn. If a creature begins its turn there, it takes 4 psychic damage.
+***Lingering Echo.*** Kynerith creates a psychic residue in a 10-ft. radius centered on her current space. The area becomes difficult terrain for enemies until the start of her next turn. If a creature begins its turn there, it takes 2 (1d4) psychic damage.
 
 ***Shadow Step.*** Kynerith teleports up to 30 feet to an unoccupied space she can see that is in dim light or darkness.
 
@@ -67,6 +63,6 @@ ___
 
 Kynerith can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. She regains spent legendary actions at the start of her turn.
 
-***Whispers.*** A target within 60 feet must make a DC 16 Wisdom saving throw or take 7 (2d6) psychic damage and have disadvantage on its next Wisdom saving throw.
+***Whispers.*** _Wisdome Saving Throw:_ DC 16, one target within 60 feet that she can see. _Failure:_ 7 (2d6) Psychic damage and has disadvantage on its next Wisdom saving throw. _Succes:_ No effect.
 
-***Deep Memory (Costs 2).*** Kynerith reaches into the subconscious of one target within 60 feet. That creature must succeed on a DC 17 Intelligence saving throw or become stunned until the end of its next turn.
+***Deep Memory (Costs 2).*** Kynerith reaches into her opponent's subconscious. _Intelligence Saving Throw:_ DC 17, one target within 60 feet that she can see. _Failure:_ Stunned until the end of its next turn. _Success:_ Confronts its fears and wins; gain Heroic Inspiration.
