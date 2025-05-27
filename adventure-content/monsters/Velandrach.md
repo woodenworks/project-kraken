@@ -36,7 +36,7 @@ ___
 
 ***Eldritch Blast.*** *Ranged Spell Attack:* +8 to hit, range 120 ft., three targets. *Hit:* 10 (1d10 + 4) Force damage per beam.
 
-***Gravitic Collapse (Recharge 5–6).*** Velandrach creates a sphere of collapsing force. _Dexterity Saving Throw:_ Each creature in a 20-foot sphere at a point Velandrach can see within 60 feet. _Failure:_ 27 (6d8) Force damage. _Success:_ Half damage.
+***Gravitic Collapse (Recharge 5–6).*** Velandrach creates a sphere of collapsing force. _Dexterity Saving Throw:_ DC 16, each creature in a 20-foot sphere at a point Velandrach can see within 60 feet. _Failure:_ 27 (6d8) Force damage. _Success:_ Half damage.
 
 ***Spellcasting (4/Short Rest).*** Velandrach casts one of the following spells at 5th-level, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):
 - *fear*, *hypnotic pattern*, *counterspell*, *wall of force*, *dimension door*
@@ -49,7 +49,7 @@ ___
 
 ### Reaction
 
-***Counter-Glyph.*** When Velandrach is targeted by a spell, he may consume one of his active glyphs to cast *counterspell* as a reaction without using a spell slot.
+***Counter-Glyph.*** When Velandrach is targeted by a spell, he may consume one active glyphs he can see to cast *counterspell* as a reaction without using a spell slot.
 
 ### Legendary Actions
 
