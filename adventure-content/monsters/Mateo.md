@@ -43,10 +43,7 @@ ___
 - *Failure:* The creature is convinced it’s being observed and judged. It has disadvantage on attack rolls until the end of its next turn and cannot take reactions.  
 - *Success:* The creature shrugs off the illusion.
 
-***Illusory Army (Recharge 5–6).*** Mateo summons three phantasmal soldiers within 30 feet. Each has AC 12, 1 HP. When destroyed or when a creature ends its turn in the same space, it explodes.  
-- *Dexterity Saving Throw:* DC 16  
-- *Failure:* 14 (4d6) Force damage.  
-- *Success:* Half damage.
+***Illusory Army (Recharge 5–6).*** Mateo summons three **Phantasmal Soldiers** to points he can see within 30 feet.
 
 ***Spellcasting (4/Short Rest).*** Mateo casts one of the following spells at 5th-level, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):  
 - *mirror image*, *counterspell*, *major image*, *synaptic static*, *dominate person*
@@ -57,18 +54,13 @@ ___
 
 ***Tactical Swap.*** Mateo switches places with one of his illusions (including mirror image duplicates or phantasmal soldiers). He must be able to see the target.
 
-***Compelling Presence.*** One creature Mateo can see within 30 feet must succeed on a DC 18 Charisma saving throw.  
-- *Failure:* The creature is charmed until the end of Mateo’s next turn.  
-- *Success:* The creature is immune to this ability for 24 hours.
+***Compelling Presence.*** _Charisma Saving Throw:_ DC 18, one creature Mateo can see within 30 feet. *Failure:* The creature is charmed until the end of Mateo’s next turn. *Success:* The creature is immune to this ability for 24 hours.
 
 ---
 
 ### Reaction
 
-***Blinding Brilliance.*** _Trigger:_ Mateo is hit by a melee attack.  
-- *Wisdom Saving Throw:* DC 16 by the attacker.  
-- *Failure:* The attacker is blinded until the end of their next turn.  
-- *Success:* No effect.
+***Blinding Brilliance.*** _Trigger:_ Mateo is hit by a melee attack. *Effect: Wisdom Saving Throw:* DC 16 by the attacker. *Failure:* The attacker is blinded until the end of their next turn. *Success:* No effect.
 
 ---
 
@@ -81,3 +73,36 @@ Mateo can take 2 legendary actions, choosing from the options below. Only one le
 ***Fade Step.*** Mateo becomes invisible until the start of his next turn or until he attacks or casts a spell.
 
 ***Stagecraft (Costs 2).*** Mateo casts *major image* centered on a space he can see within 60 feet.
+
+
+## Phantasmal Soldier  
+*Medium Illusion, Unaligned*  
+___  
+- **AC** 12  
+- **HP** 1  
+- **Speed** 0 ft. (hover in place)
+___  
+- **Senses** Darkvision 60 ft., passive Perception 10  
+- **Languages** —  
+- **CR** — (PB +0)  
+___  
+
+### Traits
+
+***Phantasmal Form.*** The soldier is immune to all conditions and takes no damage from non-magical sources. It is destroyed instantly if it takes any damage or is the target of *dispel magic* or similar effects.
+
+***Incorporeal.*** The soldier occupies space but cannot block movement or be grappled. It hovers 5 feet above the ground and makes no sound.
+
+***Death Throes.*** When the soldier reaches 0 Hit Points, it detonates in a surge of psychic force. - *Dexterity Saving Throw:* DC 16, all creatures within 10 feet of the soldier. **Failure:** 14 (4d6) Force damage. **Success:** Half damage.
+
+---
+
+### Reaction
+
+***Premature Detonation.*** _Trigger:_ A creature ends its turn within 5 feet of the Phantasmal Soldier, or passes through the Soldier's space. _Effect:_ The Soldier's Hit Points drop to 0 and its **Death Throes** trait is activated.
+
+---
+
+### Behavior
+
+Phantasmal Soldiers do not act on their own initiative. They remain where summoned unless moved by Mateo (e.g., via *Command Illusion*). They take no actions, speak no words, and vanish when Mateo dies.
