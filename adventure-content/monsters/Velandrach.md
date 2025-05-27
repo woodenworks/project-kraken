@@ -1,5 +1,5 @@
 ## Velandrach, the Architect of Renewal
-*Humanoid (Elf), Lawful Evil*
+*Humanoid (Elf), Chaotic Evil*
 ___
 - **AC** 17 (Arcane Ward)
 - **HP** 130
@@ -11,7 +11,7 @@ ___
 | CON | 12 | +1  | +1   |
 | INT | 16 | +3  | +7   |
 | WIS | 16 | +3  | +7   |
-| CHA | 18 | +4  | +8  |
+| CHA | 18 | +4  | +8   |
 ___
 - **Initiative** +2 (12)
 - **Speed** 30 ft., Fly 30 ft. (hover)
