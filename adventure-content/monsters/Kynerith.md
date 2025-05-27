@@ -24,7 +24,9 @@ ___
 
 ***Pale Ward.*** Kynerith is surrounded by a faint psychic veil. The first time she takes damage on a round, reduce that damage by 10 (once per round).
 
-***Death Knows Names.*** Whenever a creature within 60 feet dies, Kynerith regains 10 hit points and may immediately teleport up to 30 feet.
+***Death Knows Names.*** Whenever a creature within 60 feet dies, Kynerith regains 10 hit points.
+
+***Fractured Memory.*** Once per turn, when a creature fails a saving throw against one of Kynerith’s spells or abilities, it forgets how to use one of its class features (chosen randomly by the GM) until the end of its next turn.
 
 ***Protective Lab Gear.*** Kynerith begins the fight with 55 temporary Hit Points.
 
@@ -39,21 +41,19 @@ ___
 ***Chorus of Despair (Recharge 5–6).*** Psychic static radiates from Kynerith. _Wisdom Saving Throw:_ DC 16, each creature in a 20-foot emanation. _Failure:_ 18 (4d8) Psychic damage and frightened until the end of its next turn. _Success:_ Half damage and is not frightened.
 
 ***Spellcasting (4/Short Rest).*** Kynerith casts one of the following spells at 5th-level, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
-- *synaptic static*, *phantasmal killer*, *counterspell*, *mislead*, *dominate person*
+- *synaptic static*, *phantasmal killer*, *counterspell*, *enemies abound*, *dominate person*
 
 ---
 
 ### Bonus Actions
 
-***Lingering Echo.*** Kynerith creates a psychic residue in a 10-ft. radius centered on her current space. The area becomes difficult terrain for enemies until the start of her next turn. If a creature begins its turn there, it takes 2 (1d4) psychic damage.
-
-***Shadow Step.*** Kynerith teleports up to 30 feet to an unoccupied space she can see that is in dim light or darkness.
+***Psychic Residue.*** Kynerith creates a psychic residue in a 10-ft. radius centered on her current space. The area becomes difficult terrain for enemies until the start of her next turn. A creature (excluding Aberrations and Broken Circle Warlocks) occupying the space is unable to speak a language; when it tries, only gibberish comes out and the creature takes 2d4 Psychic damage.
 
 ---
 
 ### Reaction
 
-***Stutter Step.*** _Trigger:_ Kynerith takes damage. _Effect:_ Kynerith can teleport 10 feet to an unoccupied space she can see.
+***Stutter Step.*** _Trigger:_ Kynerith takes damage while she still has Temporary HP remaining. _Effect:_ Kynerith loses 5 Temporary Hit Points and teleports 30 feet to an unoccupied space she can see.
 
 ***Flicker of Doubt [Recharge 5–6].*** _Trigger:_ A creature within 30 feet of Kynerith succeeds on a saving throw against one of her spells or abilities. _Effect:_ The creature rerolls the saving throw and must use the new result.
 
