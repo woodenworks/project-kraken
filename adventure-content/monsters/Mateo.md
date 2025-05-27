@@ -22,8 +22,6 @@ ___
 
 ### Traits
 
-***Illusory Shroud.*** Mateo is always under the effects of *mirror image*. If he casts it again, all three duplicates are restored, regardless of how many remain.
-
 ***Contingent Lies.*** The first time each round that Mateo fails a saving throw, he instead succeeds. This effect recharges at the end of his next turn.
 
 ***Fractured Presence.*** At the start of combat, Mateo creates a spectral echo of himself. On Initiative 10, the echo repeats his last action, targeting the same location or creature. The echo disappears if it takes damage or is the target of *dispel magic*.
@@ -61,7 +59,7 @@ ___
 
 ### Legendary Actions
 
-Mateo can take 1 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. He regains spent legendary actions at the start of his turn.
+Mateo can take 1 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. He regains spent legendary actions at the start of his turn. When he uses either of the following options, he can also use his **Tactical Swap** ability.
 
 ***Illusory Army.*** Mateo summons three **Phantasmal Soldiers** to points he can see within 30 feet.
 
