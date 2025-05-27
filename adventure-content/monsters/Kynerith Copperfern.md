@@ -2,7 +2,7 @@
 *Humanoid (Gnome), Neutral Evil*  
 ___  
 - **AC** 15 (Pale Ward)  
-- **HP** 110  
+- **HP** 110 + 55 Temp HP
 ___  
 |     |    | Mod | Save |
 |-----|----|-----|------|
@@ -24,9 +24,9 @@ ___
 
 ***Pale Ward.*** Kynerith is surrounded by a faint psychic veil. The first time she takes damage on a round, reduce that damage by 10 (once per round).
 
-***Chorus of Despair (Recharge 5–6).*** Psychic static radiates from Kynerith. Each creature in a 30-foot cone must succeed on a DC 16 Wisdom saving throw or take 18 (4d8) psychic damage and be **frightened** until the end of their next turn. On a success, a creature takes half damage and is not frightened.
-
 ***Death Knows Names.*** Whenever a creature within 60 feet dies, Kynerith regains 10 hit points and may immediately teleport up to 30 feet.
+
+***Protective Lab Gear.*** Kynerith begins the fight with 55 temporary Hit Points.
 
 ---
 
@@ -37,6 +37,8 @@ ___
 ***Suppress Hope.*** A creature of Kynerith’s choice within 60 feet cannot regain hit points until the start of her next turn.
 
 ***Eldritch Blast.*** *Ranged Spell Attack:* +8 to hit, range 120 ft., three targets. *Hit:* 10 (1d10 + 5) Force damage per beam.
+
+***Chorus of Despair (Recharge 5–6).*** Psychic static radiates from Kynerith. _Wisdom Saving Throw:_ DC 16, each creature in a 30-foot cone emenation. _Failure:_ 18 (4d8) Psychic damage and frightened until the end of its next turn. _Success:_ Half damage and is not frightened.
 
 ***Mind Spike.*** *Ranged Spell Attack:* +9 to hit, range 120 ft., one target. *Hit:* 14 (3d8) psychic damage. If the target is frightened or cursed, it takes an additional 7 (2d6) psychic damage.
 
@@ -55,7 +57,9 @@ ___
 
 ### Reaction
 
-***Flicker of Doubt.*** When a creature within 30 feet of Kynerith succeeds on a saving throw against one of her spells or abilities, Kynerith may force that creature to reroll the save. The creature must use the new result. (Recharge 5–6)
+***Stutter Step.*** _Trigger:_ Kynerith takes damage. _Effect:_ Kynerith can teleport 10 feet to an unoccupied space she can see.
+
+***Flicker of Doubt [Recharge 5–6].*** _Trigger:_ A creature within 30 feet of Kynerith succeeds on a saving throw against one of her spells or abilities. _Effect:_ The creature rerolls the saving throw and must use the new result.
 
 ---
 
@@ -64,7 +68,5 @@ ___
 Kynerith can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. She regains spent legendary actions at the start of her turn.
 
 ***Whispers.*** A target within 60 feet must make a DC 16 Wisdom saving throw or take 7 (2d6) psychic damage and have disadvantage on its next Wisdom saving throw.
-
-***Stutter Step.*** Kynerith teleports 10 feet without provoking opportunity attacks.
 
 ***Deep Memory (Costs 2).*** Kynerith reaches into the subconscious of one target within 60 feet. That creature must succeed on a DC 17 Intelligence saving throw or become stunned until the end of its next turn.
