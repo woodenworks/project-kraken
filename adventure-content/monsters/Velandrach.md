@@ -1,7 +1,7 @@
 ## Velandrach, the Architect of Renewal
 *Humanoid (Elf), Chaotic Evil*
 ___
-- **AC** 17 (Arcane Ward)
+- **AC** 17
 - **HP** 130
 ___
 |     |    | Mod | Save |
@@ -24,7 +24,7 @@ ___
 
 ***Arcane Matrix (1/day).*** If Velandrach is not targeted by an attack or forced to make a saving throw for 2 full rounds, he gains a 30-point arcane shield. This barrier grants him +2 AC and absorbs damage until depleted.
 
-***Master of Glyphs.*** Velandrach can embed a glyph of force into an unoccupied 5-foot cube within 60 feet. Velandrach can maintain up to three glyphs at a time. A glyph is triggered when a creature other than Velandrach enters its space or ends its turn there. _Dexterity Saving Throw:_ DC 16. _Failure:_ 13 (3d10) Force damage. The Glyph vanishes once triggered.
+***Master of Glyphs.*** Velandrach can use his **Create Glyph** ability to create up to three glyphs at a time. _Wisdom Saving Throw:_ DC 16, one creature who enters the Glyph's space or ends its turn. _Failure:_ 13 (2d10) Force damage and cannot take reactions until the start of its next turn. The Glyph vanishes once triggered.
 
 ***Dreamsteel Flesh.*** Velandrach has resistance to Force and Psychic damage.
 
@@ -49,14 +49,14 @@ ___
 
 ### Reaction
 
-***Counter-Glyph.*** When Velandrach is targeted by a spell, he may consume one active glyphs he can see to cast *counterspell* as a reaction without using a spell slot.
+***Counter-Glyph.*** When Velandrach is targeted by a spell, he may consume one active glyph he can see to cast *counterspell* as a reaction without using a spell slot.
 
 ### Legendary Actions
 
 Velandrach can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. He regains spent legendary actions at the start of his turn.
 
-***Command Glyph.*** One of Velandrach’s active glyphs immediately detonates if a creature is in its space.
+***Command Glyph.*** One of Velandrach’s active glyphs shifts 5 feet, detonating if it enters an occupied space.
 
 ***Force Pulse.*** _Strength Saving Throw:_ DC 16, each creature within a 10-ft emanation. _Failure:_ Pushed 10 feet directly away from Velandrach and knocked prone. _Success:_ No effect.
 
-***Mental Scourge (Costs 2).*** _Wisdom Saving Throw:_ One creature within 60 feet. _Failure:_ 14 (4d6) psychic damage and disadvantage on its next saving throw. _Success:_ No effect.
+***Crushing Entropy (Costs 2).*** _Wisdom Saving Throw:_ One creature within 60 feet. _Failure:_ 7 (2d6) Force damage and **Grappled** (escape DC 16) by the collapsing air around it until the end of its next turn. _Success:_ No effect.
