@@ -85,7 +85,7 @@ Mateo can take 1 legendary action, choosing from the options below. Only one leg
 > 
 > ***Phantasmal Form.*** The soldier is incorporeal and takes no damage from non-magical sources. It is destroyed instantly without triggering its **Death Throes** trait if it is dispelled.
 >
-> ***Death Throes.*** When the soldier reaches 0 Hit Points, it detonates in a surge of psychic force. - *Dexterity Saving Throw:* DC 16, all creatures within 10 feet of the soldier. **Failure:** 14 (4d6) Force damage. **Success:** Half damage.
+> ***Death Throes.*** When the soldier reaches 0 Hit Points, it detonates in a surge of psychic force. *Dexterity Saving Throw:* DC 16, all creatures within 10 feet of the soldier. *Failure:* 14 (4d6) Force damage. *Success:* Half damage.
 > 
 > ---
 > 
