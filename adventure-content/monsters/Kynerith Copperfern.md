@@ -63,6 +63,6 @@ ___
 
 Kynerith can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. She regains spent legendary actions at the start of her turn.
 
-***Whispers.*** _Wisdome Saving Throw:_ DC 16, one target within 60 feet that she can see. _Failure:_ 7 (2d6) Psychic damage and has disadvantage on its next Wisdom saving throw. _Succes:_ No effect.
+***Whispers.*** _Wisdom Saving Throw:_ DC 16, one target within 60 feet that she can see. _Failure:_ 7 (2d6) Psychic damage and has disadvantage on its next Wisdom saving throw. _Success:_ No effect.
 
 ***Deep Memory (Costs 2).*** Kynerith reaches into her opponent's subconscious. _Intelligence Saving Throw:_ DC 17, one target within 60 feet that she can see. _Failure:_ Stunned until the end of its next turn. _Success:_ Confronts its fears and wins; gain Heroic Inspiration.
