@@ -5,7 +5,7 @@ This crystal dagger is meant to slay creatures of a particular type. If a creatu
 
 After dealing its extra damage to a creature, the dagger shatters.
 
-The GM chooses which type of creature takes extra damage, or determines randomly by rolling on the table below. **In other settings:** For non-Caerra campaigns, re-roll a 95 or above, or use the table for _Ammunition of Slaying_ in the DMG.
+The GM chooses which type of creature takes extra damage, or determines randomly by rolling on the table below. _**In other settings:** For non-Caerra campaigns, re-roll a 95 or above, or use the table for_ Ammunition of Slaying _in the DMG._
 
 | 1d100 | Creature Type |
 |:-----:|---------------|
