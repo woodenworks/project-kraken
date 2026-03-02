@@ -15,18 +15,18 @@ The GM chooses which type of creature takes extra damage, or determines randomly
 | 20-24 | Constructs    |
 | 25-33 | Dragons       |
 | 34-42 | Elementals    |
-| 41-46 | Humanoids     |
-| 47-56 | Fey           |
+| 43-47 | Humanoids     |
+| 48-56 | Fey           |
 | 57-65 | Fiends        |
 | 66-70 | Giants        |
 | 71-75 | Monstrosities |
 | 76-80 | Oozes         |
 | 81-85 | Plants        |
 | 86-94 | Undead        |
-| 95    | Titans        |
-| 96-97 | Dream Creatures[^1] |
-| 98-99 | Old Ones[^2]  |
+| 95-96 | Dream Creatures[^1] |
+| 97-98 | Old Ones[^2] (except Titans)  |
+| 99    | Titans        |
 | 100   | All           |
 
 [^1]: **Dream Creatures:** Celestials, Elementals, Fey, and Fiends
-[^2]: **Old Ones:** Aberrations, Dragons, Giants, and Titans
+[^2]: **Old Ones:** Aberrations, Dragons, and Giants; Titans cannot be harmed by this arrow.
