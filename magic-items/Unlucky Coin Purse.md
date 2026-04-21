@@ -1,6 +1,4 @@
-{{WIP}}
-
-## Unlucky Coin Purse
+## {{WIP}} Unlucky Coin Purse
 *Wondrous item, very rare*
 
 This coin purse is made of unusual leather.
